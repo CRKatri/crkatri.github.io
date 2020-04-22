@@ -1,0 +1,16 @@
+Package: com.crkatri.cowsay
+Name: Cowsay
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: Cowsay but working
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Author: Cameron Katri <katri.cameron@gmail.com>
+Section: Utilities
+Conflicts: cowsay
+Requires: perl
+Filename: debs/cowsayDeb.deb
+Size: 12746
+MD5sum: d39c2a301a8982830ce8d6e2005209aa
+SHA1: 88a74b0bfc43604e62f8a38c60a7fb493387e8d7
+SHA256: 00b3b232bab66a456a360e89f2d16d7ea6f3051a2ee27edb27643fa72f8809a8
+
