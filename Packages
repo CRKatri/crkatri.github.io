@@ -3,21 +3,12 @@ Name: Cowsay
 Version: 1.0-2
 Architecture: iphoneos-arm
 Description: Cowsay but working
-     _______________________________ 
-    < This is useless and very dumb >
-     ------------------------------- 
-            \   ^__^
-             \  (oo)\_______
-                (__)\       )\/\
-                    ||----w |
-                    ||     ||
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Author: Cameron Katri <katri.cameron@gmail.com>
 Section: Utilities
 Conflicts: cowsay
 Requires: perl
 Filename: debs/cowsay-1.0-2.deb
-SileoDepiction: Depiction/com.crkatri.cowsay.sileo.json
 Size: 11760
 MD5sum: 2be21991e21cc4941b4bc46958288cc3
 SHA1: 8104ecfd7c786e9641f0c3d72b6c13f72e606722
