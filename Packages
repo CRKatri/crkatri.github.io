@@ -25,7 +25,8 @@ Section: Utilities
 Conflicts: cowsay
 Requires: perl
 Filename: debs/cowsay/cowsay-1.0-2.deb
-Size: 11740
+Size: 11760
 MD5sum: 2be21991e21cc4941b4bc46958288cc3 
-SHA1: 8104ecfd7c786e9641f0c3d72b6c13f72e606722
+SHA1: 8104ecfd7c786e9641f0c3d72b6c13f72e606722 
 SHA256: 03b2a4ecee60751606f1c888281b1f1dc9a8b66d944eed7d107b22bfd5a3fc45
+
