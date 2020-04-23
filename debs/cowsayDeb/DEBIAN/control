@@ -1,0 +1,18 @@
+Package: com.crkatri.cowsay
+Name: Cowsay
+Version: 1.0-2
+Architecture: iphoneos-arm
+Description: Cowsay but working
+      _______________________________
+     < This is useless and very dumb >
+      -------------------------------
+             \   ^__^
+              \  (oo)\_______
+                 (__)\       )\/\
+                     ||----w |
+                     ||     ||
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Author: Cameron Katri <katri.cameron@gmail.com>
+Section: Utilities
+Conflicts: cowsay
+Requires: perl

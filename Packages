@@ -3,14 +3,22 @@ Name: Cowsay
 Version: 1.0-1
 Architecture: iphoneos-arm
 Description: Cowsay but working
+     _______________________________ 
+    < This is useless and very dumb >
+     ------------------------------- 
+            \   ^__^
+             \  (oo)\_______
+                (__)\       )\/\
+                    ||----w |
+                    ||     ||
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Author: Cameron Katri <katri.cameron@gmail.com>
 Section: Utilities
 Conflicts: cowsay
 Requires: perl
-Filename: debs/cowsayDeb.deb
-Size: 12746
-MD5sum: d39c2a301a8982830ce8d6e2005209aa
-SHA1: 88a74b0bfc43604e62f8a38c60a7fb493387e8d7
-SHA256: 00b3b232bab66a456a360e89f2d16d7ea6f3051a2ee27edb27643fa72f8809a8
+Filename: debs/cowsay-1.0-2.deb
+Size: 11760
+MD5sum: 2be21991e21cc4941b4bc46958288cc3
+SHA1: 8104ecfd7c786e9641f0c3d72b6c13f72e606722
+SHA256: 03b2a4ecee60751606f1c888281b1f1dc9a8b66d944eed7d107b22bfd5a3fc45
 
