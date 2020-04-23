@@ -16,7 +16,7 @@ SHA256: 4d5a971c8db64c70811bb0d924eebf1758467688fd2dea202b71e0ca96900930
 
 Package: com.crkatri.cowsay
 Name: Cowsay
-Version: 1.0-3
+Version: 1.0-2
 Architecture: iphoneos-arm
 Description: Cowsay but working
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
