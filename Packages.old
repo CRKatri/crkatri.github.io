@@ -1,0 +1,40 @@
+Package: com.crkatri.cowsay
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Conflicts: cowsay
+Filename: debs/cowsay/cowsay-1.0-2.deb
+Size: 11760
+MD5sum: 2be21991e21cc4941b4bc46958288cc3
+SHA1: 8104ecfd7c786e9641f0c3d72b6c13f72e606722
+SHA256: 03b2a4ecee60751606f1c888281b1f1dc9a8b66d944eed7d107b22bfd5a3fc45
+Section: Utilities
+Description: Cowsay but working
+      _______________________________
+     < This is useless and very dumb >
+      -------------------------------
+             \   ^__^
+              \  (oo)\_______
+                 (__)\       )\/\
+                     ||----w |
+                     ||     ||
+Author: Cameron Katri <katri.cameron@gmail.com>
+Name: Cowsay
+Requires: perl
+
+Package: com.crkatri.cowsay
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Conflicts: cowsay
+Filename: debs/cowsay/cowsay-1.0-3.deb
+Size: 11640
+MD5sum: 5f110a86c8bb6073ddb68032484064ba
+SHA1: 59f73d476b789ca4616d5421c7c5529521672cf9
+SHA256: 4d5a971c8db64c70811bb0d924eebf1758467688fd2dea202b71e0ca96900930
+Section: Utilities
+Description: Cowsay but working
+Author: Cameron Katri <katri.cameron@gmail.com>
+Name: Cowsay
+Requires: perl
+
