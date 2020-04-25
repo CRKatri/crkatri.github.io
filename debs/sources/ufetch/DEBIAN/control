@@ -1,10 +1,9 @@
-Package: com.crkatri.cowsay
-Name: Cowsay
-Version: 1.0-3
+Package: com.crkatri.ufetch
+Name: ufetch
+Version: 1.0.1-2
 Architecture: iphoneos-arm
-Description: Cowsay but working
+Description: ufetch cause why not
+    Modified to work with iOS
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Author: Cameron Katri <katri.cameron@gmail.com>
 Section: Utilities
-Conflicts: cowsay
-Requires: perl
