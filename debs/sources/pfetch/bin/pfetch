@@ -222,7 +222,7 @@ get_title() {
 
     # shellcheck disable=SC2039
 
-    hostname=${HOSTNAME:-${hostname:-$(hostname)}}
+    hostname=${HOST}
 
 
 
@@ -498,7 +498,7 @@ get_os() {
 
                 10.15*) distro='macOS Catalina' ;;
 
-                *)      distro='macOS' ;;
+                *)      distro='iOS' ;;
 
             esac
 

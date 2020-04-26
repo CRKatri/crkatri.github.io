@@ -1,9 +1,9 @@
 Package: com.crkatri.neofetch
 Name: Neofetch
-Version: 7.0.0-1
+Version: 7.0.0-2
 Architecture: iphoneos-arm
 Description: Neofetch cause why not
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
-Author: Cameron Katri <katri.cameron@gmail.com>
+Author: dylanaraps
 Section: Utilities
 Conflicts: com.michael.neofetch, com.matdev.neofetch-ios

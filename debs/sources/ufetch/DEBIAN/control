@@ -1,9 +1,9 @@
 Package: com.crkatri.ufetch
 Name: ufetch
-Version: 1.0.1-2
+Version: 1.0.1-3
 Architecture: iphoneos-arm
 Description: ufetch cause why not
     Modified to work with iOS
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
-Author: Cameron Katri <katri.cameron@gmail.com>
+Author: jschx 
 Section: Utilities
