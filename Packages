@@ -157,19 +157,3 @@ Description: ufetch cause why not
 Author: jschx
 Name: ufetch
 
-Package: ru.domo.cocoatop
-Version: 2.1.3
-Architecture: iphoneos-arm
-Maintainer: AnonymousxiosdeV
-Installed-Size: 1344
-Depends: firmware (>= 13.0)
-Filename: ./debs/ru.domo.cocoatop_2.1.3_iphoneos-arm.deb
-Size: 251270
-MD5sum: 4dcf90a247084edf5ceee0aef07b1a19
-SHA1: 68f0641492c86bdbaed39f78e2c5fa834fae8128
-SHA256: 7b11d294b044982d4af93c100627ce23fece244460f3eff9344b2c1b226f6fd3
-Section: Utilities
-Description: iOS13+ GUI for monitoring processes
-Author: Domo
-Name: CocoaTop iOS13
-
