@@ -69,6 +69,21 @@ Description: Neofetch cause why not
 Author: Cameron Katri <katri.cameron@gmail.com>
 Name: Neofetch
 
+Package: com.crkatri.neofetch
+Version: 7.0.0-2
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Conflicts: com.michael.neofetch, com.matdev.neofetch-ios
+Filename: ./debs/com.crkatri.neofetch_7.0.0-2_iphoneos-arm.deb
+Size: 71556
+MD5sum: ef50d69c20d40f4e51d3745a613ab193
+SHA1: 50b1c30a1f62052c1917181eadc06fe1d4fb7642
+SHA256: e8040ce2db0baba7db0ae82588fa37145a4254d8adcbd14c3f35d7c9efd3f7f8
+Section: Utilities
+Description: Neofetch cause why not
+Author: dylanaraps
+Name: Neofetch
+
 Package: com.crkatri.pfetch
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -81,6 +96,21 @@ SHA256: 2f2cd4b9ad3069012b3e00a4b24c415af2ae0b6d56f480ed4d5807afb25849fc
 Section: Utilities
 Description: pfetch cause why not
 Author: Cameron Katri <katri.cameron@gmail.com>
+Name: pfetch
+
+Package: com.crkatri.pfetch
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Filename: ./debs/com.crkatri.pfetch_1.0-2_iphoneos-arm.deb
+Size: 14432
+MD5sum: 0a982483392947a9583d190a7e2f2ad9
+SHA1: af515edd5c5a3c25b7da7775873aebb0d8862cf3
+SHA256: a16ef5af12089362a73cc91ed7b87af71c02c9a7afe0fb393e380e850ac4bcb2
+Section: Utilities
+Description: pfetch cause why not
+    Slight modifications to work with iOS
+Author: dylanaraps
 Name: pfetch
 
 Package: com.crkatri.ufetch
@@ -110,5 +140,20 @@ Section: Utilities
 Description: ufetch cause why not
     Modified to work with iOS
 Author: Cameron Katri <katri.cameron@gmail.com>
+Name: ufetch
+
+Package: com.crkatri.ufetch
+Version: 1.0.1-3
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Filename: ./debs/com.crkatri.ufetch_1.0.1-3_iphoneos-arm.deb
+Size: 1512
+MD5sum: dfd770401a906d6b4d4da39fae2f0034
+SHA1: 9ddb53663457340a4c72870a0db2383b7d0faedf
+SHA256: 98bd12d10fd5e5299667295127f08c439897e9cf7367af3d7133f7b8db44a3a2
+Section: Utilities
+Description: ufetch cause why not
+    Modified to work with iOS
+Author: jschx
 Name: ufetch
 
