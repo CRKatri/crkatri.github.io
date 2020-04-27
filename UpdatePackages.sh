@@ -1,7 +1,6 @@
 #!/bin/sh
 
-rm Packages.old
-mv Packages Packages.old
+rm Packages
 dpkg-scanpackages --multiversion ./debs > Packages
 rm Packages.gz
 rm Packages.bz2
