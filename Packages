@@ -158,22 +158,6 @@ Author: jschx
 Name: ufetch
 
 Package: ru.domo.cocoatop
-Version: 2.1.3-1
-Architecture: iphoneos-arm
-Maintainer: CRKatri
-Installed-Size: 736
-Depends: firmware (>= 11.0)
-Filename: ./debs/ru.domo.cocoatop_2.1.3-1_iphoneos-arm.deb
-Size: 142492
-MD5sum: 0cbef7cf1c88369b4127e35222fe4e52
-SHA1: 09f370363d8cfaa3a5541becb60ffd37b287243c
-SHA256: 9ea73e27c0fea24011682988339cbf978a8cfb12fe775ee968e8f8deec9dd3b8
-Section: Utilities
-Description: Process Viewer for iOS GUI
-Author: Domo and Fionera
-Name: CocoaTop
-
-Package: ru.domo.cocoatop
 Version: 2.1.3-2
 Architecture: iphoneos-arm
 Maintainer: CRKatri
