@@ -1,0 +1,159 @@
+Package: com.crkatri.cowsay
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Conflicts: cowsay
+Filename: ./debs/com.crkatri.cowsay-1.0-2.deb
+Size: 11760
+MD5sum: 2be21991e21cc4941b4bc46958288cc3
+SHA1: 8104ecfd7c786e9641f0c3d72b6c13f72e606722
+SHA256: 03b2a4ecee60751606f1c888281b1f1dc9a8b66d944eed7d107b22bfd5a3fc45
+Section: Utilities
+Description: Cowsay but working
+      _______________________________
+     < This is useless and very dumb >
+      -------------------------------
+             \   ^__^
+              \  (oo)\_______
+                 (__)\       )\/\
+                     ||----w |
+                     ||     ||
+Author: Cameron Katri <katri.cameron@gmail.com>
+Name: Cowsay
+Requires: perl
+
+Package: com.crkatri.cowsay
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Conflicts: cowsay
+Filename: ./debs/com.crkatri.cowsay-1.0-3.deb
+Size: 11640
+MD5sum: 5f110a86c8bb6073ddb68032484064ba
+SHA1: 59f73d476b789ca4616d5421c7c5529521672cf9
+SHA256: 4d5a971c8db64c70811bb0d924eebf1758467688fd2dea202b71e0ca96900930
+Section: Utilities
+Description: Cowsay but working
+Author: Cameron Katri <katri.cameron@gmail.com>
+Name: Cowsay
+Requires: perl
+
+Package: com.crkatri.cowsay
+Version: 1.0-4
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Depends: perl
+Conflicts: cowsay
+Filename: ./debs/com.crkatri.cowsay-1.0-4.deb
+Size: 11640
+MD5sum: 5bcc68c1155b346787a92e68c6027f3d
+SHA1: 8ea6deec17def32cfdb86591bead273ae330e155
+SHA256: c0ad7a31a2d109ec87c3d872e12f4a77bab97bcbcb1a39e9c4e68b52c95b8811
+Section: Utilities
+Description: Cowsay but working
+Author: Cameron Katri <katri.cameron@gmail.com>
+Name: Cowsay
+
+Package: com.crkatri.neofetch
+Version: 7.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Conflicts: com.michael.neofetch, com.matdev.neofetch-ios
+Filename: ./debs/com.crkatri.neofetch-7.0.0-1.deb
+Size: 71548
+MD5sum: 64cf669468a889ea704e0685d8467f3d
+SHA1: cdc247235fbdc82a18e5643ac907411364ffa980
+SHA256: 26e92c24501ebd47e201456193de93becbc68df6358fbf0cd382e929098ac60a
+Section: Utilities
+Description: Neofetch cause why not
+Author: Cameron Katri <katri.cameron@gmail.com>
+Name: Neofetch
+
+Package: com.crkatri.neofetch
+Version: 7.0.0-2
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Conflicts: com.michael.neofetch, com.matdev.neofetch-ios
+Filename: ./debs/com.crkatri.neofetch_7.0.0-2_iphoneos-arm.deb
+Size: 71556
+MD5sum: ef50d69c20d40f4e51d3745a613ab193
+SHA1: 50b1c30a1f62052c1917181eadc06fe1d4fb7642
+SHA256: e8040ce2db0baba7db0ae82588fa37145a4254d8adcbd14c3f35d7c9efd3f7f8
+Section: Utilities
+Description: Neofetch cause why not
+Author: dylanaraps
+Name: Neofetch
+
+Package: com.crkatri.pfetch
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Filename: ./debs/com.crkatri.pfetch_1.0-1_iphoneos-arm.deb
+Size: 14392
+MD5sum: 379f85e9e64ecfb473f8e58196c0c879
+SHA1: b8e4f1aa754791e680ab0d18733c1ef644c1c3b6
+SHA256: 2f2cd4b9ad3069012b3e00a4b24c415af2ae0b6d56f480ed4d5807afb25849fc
+Section: Utilities
+Description: pfetch cause why not
+Author: Cameron Katri <katri.cameron@gmail.com>
+Name: pfetch
+
+Package: com.crkatri.pfetch
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Filename: ./debs/com.crkatri.pfetch_1.0-2_iphoneos-arm.deb
+Size: 14432
+MD5sum: 0a982483392947a9583d190a7e2f2ad9
+SHA1: af515edd5c5a3c25b7da7775873aebb0d8862cf3
+SHA256: a16ef5af12089362a73cc91ed7b87af71c02c9a7afe0fb393e380e850ac4bcb2
+Section: Utilities
+Description: pfetch cause why not
+    Slight modifications to work with iOS
+Author: dylanaraps
+Name: pfetch
+
+Package: com.crkatri.ufetch
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Filename: ./debs/com.crkatri.ufetch-1.0.1-1.deb
+Size: 1484
+MD5sum: 26a59c801a74e9c411c064ea641c4365
+SHA1: c094df38911990a5f5cbc3ceda1ff0618cf07a9c
+SHA256: 3e6dc5833019568cbdd4d5dca2e2662c6ab8a43881b2cefce5006334233f700e
+Section: Utilities
+Description: ufetch cause why not
+Author: Cameron Katri <katri.cameron@gmail.com>
+Name: ufetch
+
+Package: com.crkatri.ufetch
+Version: 1.0.1-2
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Filename: ./debs/com.crkatri.ufetch_1.0.1-2_iphoneos-arm.deb
+Size: 1508
+MD5sum: 1ae4c04322205b66c75d0c2c6af824fa
+SHA1: b5261edcdb1f158841dcee60e06e5cb8d2398335
+SHA256: 9b13a7593665150b5669ed9011566ac31f280e98f96e1bb6edf47b8667ea5be2
+Section: Utilities
+Description: ufetch cause why not
+    Modified to work with iOS
+Author: Cameron Katri <katri.cameron@gmail.com>
+Name: ufetch
+
+Package: com.crkatri.ufetch
+Version: 1.0.1-3
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Filename: ./debs/com.crkatri.ufetch_1.0.1-3_iphoneos-arm.deb
+Size: 1512
+MD5sum: dfd770401a906d6b4d4da39fae2f0034
+SHA1: 9ddb53663457340a4c72870a0db2383b7d0faedf
+SHA256: 98bd12d10fd5e5299667295127f08c439897e9cf7367af3d7133f7b8db44a3a2
+Section: Utilities
+Description: ufetch cause why not
+    Modified to work with iOS
+Author: jschx
+Name: ufetch
+
