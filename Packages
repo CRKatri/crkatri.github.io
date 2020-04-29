@@ -157,38 +157,6 @@ Description: ufetch cause why not
 Author: jschx
 Name: ufetch
 
-Package: me.gmoran.notchbegone
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.1-1+debug_iphoneos-arm.deb
-Size: 6712
-MD5sum: e5869a38bc00b443c9bb00353f7f8fd7
-SHA1: ce2c5d96b1de318552193350be40150adc163a1c
-SHA256: 7e7a0971ab9109544916a92a6f83d262e16cfc57bc7a4ead0016955499fe1a26
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Guillermo Moran
-Name: NotchBeGone
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2-1+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2-1+debug_iphoneos-arm.deb
-Size: 6732
-MD5sum: ff1b92f9e443c07c6d441f983ce2268b
-SHA1: 8640081f559aaeee634a5a6acdfe95dec371a1e3
-SHA256: e149b819efe0702191bf5c9aa8d1a4d351aac7acd7cf7416ead1da5bca1935ec
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Guillermo Moran
-Name: NotchBeGone
-
 Package: ru.domo.cocoatop
 Version: 2.1.3-2
 Architecture: iphoneos-arm
