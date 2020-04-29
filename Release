@@ -1,8 +1,8 @@
-Origin: CRKatri's Repo
-Label: CRKatri's Repo
+Origin: Egg aka CRKatri's Repo
+Label: Egg aka CRKatri's Repo
 Suite: stable
-VersionL 1.0
+Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: CRKatri's Repo
+Description: Egg aka CRKatri's Repo
