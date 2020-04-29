@@ -7,3 +7,4 @@ Description: ufetch cause why not
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Author: jschx 
 Section: Utilities
+Depends: gawk

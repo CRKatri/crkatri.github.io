@@ -146,11 +146,12 @@ Package: com.crkatri.ufetch
 Version: 1.0.1-3
 Architecture: iphoneos-arm
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Depends: gawk
 Filename: ./debs/com.crkatri.ufetch_1.0.1-3_iphoneos-arm.deb
-Size: 1512
-MD5sum: dfd770401a906d6b4d4da39fae2f0034
-SHA1: 9ddb53663457340a4c72870a0db2383b7d0faedf
-SHA256: 98bd12d10fd5e5299667295127f08c439897e9cf7367af3d7133f7b8db44a3a2
+Size: 1516
+MD5sum: 958b632562bf57a93ff5b45ba090bf1d
+SHA1: 24a355426dd0ced22725c1f2c22bd5975ef18b20
+SHA256: 3e93f0e45ed7e5d5f929cbfd5a29cef298d8c7dafc71d49b713340d0c09dedaa
 Section: Utilities
 Description: ufetch cause why not
     Modified to work with iOS
