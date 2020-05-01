@@ -70,6 +70,21 @@ Description: Cowsay but working
 Author: Cameron Katri <katri.cameron@gmail.com>
 Name: Cowsay
 
+Package: com.crkatri.cowsay
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Conflicts: cowsay
+Filename: ./debs/com.crkatri.cowsay_1.1-2_iphoneos-arm.deb
+Size: 11628
+MD5sum: 31647c17dde423585016f54bcd4bb2f9
+SHA1: dc5fd8188876259304c5e51b4ed05e81c7d5db11
+SHA256: beb1519cb10460608996a4a6968308c7789bc785b1ad064ee61c0366e3f12424
+Section: Utilities
+Description: Cowsay but working
+Author: Cameron Katri <katri.cameron@gmail.com>
+Name: Cowsay
+
 Package: com.crkatri.neofetch
 Version: 7.0.0-1
 Architecture: iphoneos-arm
