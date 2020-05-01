@@ -1,9 +1,10 @@
 Package: com.crkatri.cowsay
 Name: Cowsay
-Version: 1.1-2
+Version: 1.1-3
 Architecture: iphoneos-arm
 Description: Cowsay but working
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Author: Cameron Katri <katri.cameron@gmail.com>
 Section: Utilities
 Conflicts: cowsay
+Depends: perl
