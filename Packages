@@ -237,6 +237,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Guillermo Moran
 Name: NotchBeGone
 
+Package: me.gmoran.notchbegone
+Version: 0.0.2-9+debug
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/me.gmoran.notchbegone_0.0.2-9+debug_iphoneos-arm.deb
+Size: 5888
+MD5sum: 99a5d1210f05f8a51f0804c378493dc5
+SHA1: 80792690a513e762c31e6561a0b15710edbc8165
+SHA256: 1c86637f102d29ae04a91d357e05c4bb095385c5ed37581de3521ed348dbe228
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Guillermo Moran
+Name: NotchBeGone
+
 Package: ru.domo.cocoatop
 Version: 2.1.3-2
 Architecture: iphoneos-arm
