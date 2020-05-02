@@ -1,46 +1,87 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Egg aka CRKatri's Website</title>
-  </head>
-  <body><span style="font-family: Helvetica,Arial,sans-serif;"> </span>
-    <h1 style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;">Egg
-        aka CRKatri's Repo</span></h1>
-    <div style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;">I
-        don't feel like doing css so this <br>
-      </span></div>
-    <div style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;">website
-        will have to do</span></div>
-    <div style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;"><br>
-      </span></div>
-    <div style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;">with
-        all its correct punctuation</span></div>
-    <div style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;">and
-        spacing and correct grammar</span></div>
-    <div style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;"><br>
-      </span></div>
-    <div style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;"><a
-          href="https://cydia.saurik.com/api/share#?source=https://crkatri.github.io">add
-          my repo if you want</a><br>
-      </span></div>
-    <div style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;"><br>
-      </span></div>
-    <div style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;">Stalk
-        me here<br>
-      </span></div>
-    <div style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;"><a
-          href="https://twitter.com/katricameron">twitter</a><br>
-      </span></div>
-    <div style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;"><a
-          href="https://github.com/CRKatri">github (for my dumb projects)</a><br>
-      </span></div>
-    <div style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;"><a
-          href="https://reddit.com/user/CRKRocks">reddit</a><br>
-      </span></div>
-    <div style="text-align: center;"><span style="font-family: Helvetica,Arial,sans-serif;"><a
-          href="mailto:katri.cameron@gmail.com">and my email (use this if you
-          don't have twitter)</a><br>
-      </span></div>
-  </body>
+
+<head>
+    <title>Egg aka CRKatri</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://unpkg.com/98.css">
+    <style>
+        body {
+            background-color: #c0c0c0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="window" style="width: 300px;">
+        <div class="title-bar">
+            <div class="title-bar-text">Add my Repo</div>
+            <div class="title-bar-controls">
+                <button aria-label="Minimize"></button>
+                <button aria-label="Maximize"></button>
+                <button aria-label="Close"></button>
+            </div>
+        </div>
+        <div class="window-body">
+            <p>Select Your Desired Package Manager</p>
+            <div class="field-row">
+                <input id="cydia" type="radio" name="repo">
+                <label for="cydia">Cydia</label>
+            </div>
+            <div class="field-row">
+                <input id="sileo" type="radio" name="repo">
+                <label for="sileo">Sileo</label>
+            </div>
+            <div class="field-row">
+                <input id="zebra" type="radio" name="repo">
+                <label for="zebra">Zebra</label>
+            </div>
+            <div class="field-row">
+                <input id="installer" type="radio" name="repo">
+                <label for="installer">Installer</label>
+            </div>
+            <button onClick="onAdd();">Add repo</button>
+            <p></p>
+        </div>
+    </div>
+    <script>
+        function onAdd() {
+            const radios = document.getElementsByName("repo");
+            for (let radio of radios) {
+                if (radio.checked) {
+                    if (radio.id === "cydia") {
+                        location.href = "cydia://url/https://cydia.saurik.com/api/share#?source=https://crkatri.github.io/";
+                    } else if (radio.id === "sileo") {
+                        location.href = "sileo://source/url/https://crkatri.github.io/";
+                    } else if (radio.id === "zebra") {
+                        location.href = "zbra://sources/add/https://crkatri.github.io/";
+                    } else if (radio.id === "installer") {
+                        location.href = "installer://add/repo=https://crkatri.github.io/";
+                    }
+                }
+            }
+        }
+    </script>
+    <div style="padding-top: 12px;"></div>
+    <div class="window" style="width: 300px">
+        <div class="title-bar">
+          <div class="title-bar-text">Stalk me!</div>
+          <div class="title-bar-controls">
+            <button aria-label="Minimize"></button>
+            <button aria-label="Maximize"></button>
+            <button aria-label="Close"></button>
+          </div>
+        </div>
+        <div class="window-body">
+          <button onclick="location.href='https://twitter.com/KatriCameron';">Twitter</button>
+          <button onclick="location.href='https://github.com/CRKatri';">GitHub</button>
+          <div></div>
+          <button onclick="location.href='https://reddit.com/user/CKRocks';">Reddit</button>
+          <button onclick="location.href='mailto:katri.cameron@gmail.com';">Email</button>
+        </div>
+      </div>
+    </body>
+</body>
+
 </html>
