@@ -101,6 +101,22 @@ Description: Cowsay but working
 Author: Cameron Katri <katri.cameron@gmail.com>
 Name: Cowsay
 
+Package: com.crkatri.eggnotch
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Egg aka CRKatri
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.crkatri.eggnotch_0.0.2_iphoneos-arm.deb
+Size: 4646
+MD5sum: b2005652c2234018ac403dc0076eeb16
+SHA1: d45147d1816e835ff0fd8251d4cde9be9081fca5
+SHA256: 62bd14143d7f56a8da2ef952a6756136201cf012e5118e74f6fbadabc2ae409b
+Section: Tweaks
+Description: Hide the notch on notched iPhones, iOS 11? - 13
+Author: Egg aka CRKatri
+Name: eggNotch
+
 Package: com.crkatri.neofetch
 Version: 7.0.0-1
 Architecture: iphoneos-arm
@@ -204,218 +220,6 @@ Description: ufetch cause why not
     Modified to work with iOS
 Author: jschx
 Name: ufetch
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2_iphoneos-arm.deb
-Size: 4396
-MD5sum: d98199388e0a24872338f3fe1d26bfd0
-SHA1: 0280ed70bd9d832a83c8d009a97d29453e823307
-SHA256: 1cfc73adc0a41d97dc2c2a54a197c16b442b85685f271a16d9d8529f28ece031
-Section: Tweaks
-Description: Hide the notch on notched iPhones, iOS 11? - 13
-    Created by Guillermo Moran, updated for iOS 13 by Egg aka CRKatri
-Author: Guillermo Moran
-Name: NotchBeGone
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2-1+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2-1+debug_iphoneos-arm.deb
-Size: 5830
-MD5sum: 5619f3c64b3b2f3a40be952401d198ef
-SHA1: 3af09f621fcadd0eaa2e363364a04626faf3533a
-SHA256: 2e8ccf50a815abb736bc818b11f499227f2dfaa0e96ccd8ebb17b8d8b494a678
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Guillermo Moran
-Name: NotchBeGone
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2-13+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2-13+debug_iphoneos-arm.deb
-Size: 5924
-MD5sum: 8045e61ad1db58a1bc7e3633f4df2521
-SHA1: f449dcb0388a68228a7bb83d3dfccdb6cf006b92
-SHA256: 9f558364fe102fb91927248a7574e91dda2464cca4c9ca60b8886f5473cc2e98
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Guillermo Moran
-Name: NotchBeGone
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2-17+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2-17+debug_iphoneos-arm.deb
-Size: 5924
-MD5sum: 7a6adabec5a2d93e63a8d73a11c805d1
-SHA1: 1b75259d0b23a5c453177783037857ad72accc48
-SHA256: 484cc9ed7d63458c82c54faba334745836571a4369171f8e49c6fe3ab3df96e0
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Guillermo Moran
-Name: NotchBeGone
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2-19+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2-19+debug_iphoneos-arm.deb
-Size: 5934
-MD5sum: 1117884bc5e1941e89d85befbf4c0f53
-SHA1: 31b6e1396ab0195115396a5554f2b1fbaa3d3b7d
-SHA256: aa17acc6abd59d7d079ed7bf9be686b22ab867d2efcc68399a1848ee1125089a
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Guillermo Moran
-Name: NotchBeGone
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2-28+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 124
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2-28+debug_iphoneos-arm.deb
-Size: 6644
-MD5sum: 2e3cbb65b141cc83677596681f962818
-SHA1: b8cd38f652276dee6b79950400572aed0316e790
-SHA256: 38f94e7c571c3aa3c8675d04984c5804a9e07715c1555b4c2c00971933c27d66
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Guillermo Moran
-Name: NotchBeGone
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2-32+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 124
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2-32+debug_iphoneos-arm.deb
-Size: 6646
-MD5sum: 0d19abffb745446fd503dabb9250482c
-SHA1: eb6498b107606e58b2e6d36e72a18908af112df6
-SHA256: e8fa03364b6dee027d9fe4573c60d81f56f4c54671535b46560d90949f15df59
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Guillermo Moran
-Name: NotchBeGone
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2-35+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 124
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2-35+debug_iphoneos-arm.deb
-Size: 6644
-MD5sum: 329dd9516a9701c6d2f5f07adf080258
-SHA1: 0b16b96d255a0859cc56a3996390bc20f789f663
-SHA256: f02001fccec98166959944fc5780fbb60f8e4bec026e472542d6c04d9ccda87e
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Guillermo Moran
-Name: NotchBeGone
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2-36+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 124
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2-36+debug_iphoneos-arm.deb
-Size: 6718
-MD5sum: d3cab93e8b5f668652a835bb859ce263
-SHA1: 748462a5a5426fe0333146f456d657c639e1bc54
-SHA256: 7eaccbdc76395cbdc5abde692ad6b5f29a19b9e00f48913d40f75546413dfc99
-Section: Tweaks
-Description: Hide the notch on notched iPhones, iOS 11? - 13
-    Created by Guillermo Moran, updated for iOS 13 by Egg aka CRKatri
-Author: Guillermo Moran and CRKatri <katri.cameron@gmail.com>
-Name: NotchBeGone
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2-37+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 124
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2-37+debug_iphoneos-arm.deb
-Size: 6698
-MD5sum: 2996e08c0f9dc48da6ae06634447f463
-SHA1: da0537531ce6f99f5b4970412daccb6c10cfc271
-SHA256: 4ce8af5d1c768cd5b011ddc02ad597189fe8e2a60941c55470dd919555c111c7
-Section: Tweaks
-Description: Hide the notch on notched iPhones, iOS 11? - 13
-    Created by Guillermo Moran, updated for iOS 13 by Egg aka CRKatri
-Author: Guillermo Moran
-Name: NotchBeGone
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2-53+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 124
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2-53+debug_iphoneos-arm.deb
-Size: 7102
-MD5sum: 252836f928be004a86d66c46938d6958
-SHA1: dcfef293a35e8ee371219e9145a81f10593b08ce
-SHA256: 90ba58d840c4a5b5c27b7d2085c9fc42742d47e5f823e6facb06924815f14679
-Section: Tweaks
-Description: Hide the notch on notched iPhones, iOS 11? - 13
-    Created by Guillermo Moran, updated for iOS 13 by Egg aka CRKatri
-Author: Guillermo Moran
-Name: NotchBeGone
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2-7+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2-7+debug_iphoneos-arm.deb
-Size: 5828
-MD5sum: 35eb269b206bf98404f1a6cb15201fbe
-SHA1: f7def903473c444eab950738ebc295eb407141fa
-SHA256: 1df1ac1d002c78ec51b4c994dbb8450a76436500ac706589dc66e812361158fc
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Guillermo Moran
-Name: NotchBeGone
-
-Package: me.gmoran.notchbegone
-Version: 0.0.2-9+debug
-Architecture: iphoneos-arm
-Maintainer: Guillermo Moran
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/me.gmoran.notchbegone_0.0.2-9+debug_iphoneos-arm.deb
-Size: 5888
-MD5sum: 99a5d1210f05f8a51f0804c378493dc5
-SHA1: 80792690a513e762c31e6561a0b15710edbc8165
-SHA256: 1c86637f102d29ae04a91d357e05c4bb095385c5ed37581de3521ed348dbe228
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Guillermo Moran
-Name: NotchBeGone
 
 Package: ru.domo.cocoatop
 Version: 2.1.3-2
