@@ -369,6 +369,23 @@ Author: Guillermo Moran
 Name: NotchBeGone
 
 Package: me.gmoran.notchbegone
+Version: 0.0.2-53+debug
+Architecture: iphoneos-arm
+Maintainer: Guillermo Moran
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: ./debs/me.gmoran.notchbegone_0.0.2-53+debug_iphoneos-arm.deb
+Size: 7102
+MD5sum: 252836f928be004a86d66c46938d6958
+SHA1: dcfef293a35e8ee371219e9145a81f10593b08ce
+SHA256: 90ba58d840c4a5b5c27b7d2085c9fc42742d47e5f823e6facb06924815f14679
+Section: Tweaks
+Description: Hide the notch on notched iPhones, iOS 11? - 13
+    Created by Guillermo Moran, updated for iOS 13 by Egg aka CRKatri
+Author: Guillermo Moran
+Name: NotchBeGone
+
+Package: me.gmoran.notchbegone
 Version: 0.0.2-7+debug
 Architecture: iphoneos-arm
 Maintainer: Guillermo Moran
