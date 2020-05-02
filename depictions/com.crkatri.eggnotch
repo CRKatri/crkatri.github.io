@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>eggNotch</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://unpkg.com/98.css">
+    <style>
+        body {
+            background-color: #c0c0c0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="window" style="width: 300px;">
+        <div class="title-bar">
+            <div class="title-bar-text">eggNotch</div>
+            <div class="title-bar-controls">
+                <button aria-label="Minimize"></button>
+                <button aria-label="Maximize"></button>
+                <button aria-label="Close"></button>
+            </div>
+        </div>
+        <div class="window-body">
+            <p>This Tweak should hide the notch.</p>
+            <p>Huge thanks to fr0st for NotchBeGone</p>
+        </div>
+    </div>
+    <div style="padding: 6px;"></div>
+    <div class="window" style="width: 300px;">
+        <div class="title-bar">
+            <div class="title-bar-text">Source</div>
+            <div class="title-bar-controls">
+                <button aria-label="Minimize"></button>
+                <button aria-label="Maximize"></button>
+                <button aria-label="Close"></button>
+            </div>
+        </div>
+        <div class="window-body">
+            <p>I love FOSS so I grant this to you.</p>
+            <button onclick="location.href='https://github.com/CRKatri/NotchBeGone/tree/eggNotch'">Source Code</button>
+        </div>
+    </div>
+    <div style="padding: 6px;"></div>
+    <div class="window" style="width: 300px;">
+        <div class="title-bar">
+            <div class="title-bar-text">Warning!</div>
+            <div class="title-bar-controls">
+                <button aria-label="Minimize"></button>
+                <button aria-label="Maximize"></button>
+                <button aria-label="Close"></button>
+            </div>
+        </div>
+        <div class="window-body">
+            <p>Currently doesn't work in Control Center and is riddled with bugs, please report any that you find.</p>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -108,6 +108,7 @@ Maintainer: Egg aka CRKatri
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.crkatri.eggnotch_0.0.2_iphoneos-arm.deb
+Depiction: ./depictions/com.crkatri.eggnotch
 Size: 4646
 MD5sum: b2005652c2234018ac403dc0076eeb16
 SHA1: d45147d1816e835ff0fd8251d4cde9be9081fca5
