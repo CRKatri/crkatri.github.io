@@ -92,6 +92,7 @@ Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Depends: perl
 Conflicts: cowsay
 Filename: ./debs/com.crkatri.cowsay_1.1-3_iphoneos-arm.deb
+Depiction: https://crkatri.github.io/depictions/com.crkatri.cowsay
 Size: 11636
 MD5sum: ce0b0f007d036d9be2c8c7808aa4edf7
 SHA1: e66d8000717489fee7b50b4cb1db08f57b0c8cf5
