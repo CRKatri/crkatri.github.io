@@ -168,6 +168,23 @@ Author: Egg aka CRKatri
 Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
 Name: eggNotch
 
+Package: com.crkatri.eggnotch
+Version: 0.0.2-21+debug
+Architecture: iphoneos-arm
+Maintainer: Egg aka CRKatri
+Installed-Size: 252
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.crkatri.eggnotch_0.0.2-21+debug_iphoneos-arm.deb
+Size: 11636
+MD5sum: a53fde5da0a2a0a2a9a6656cb8de3357
+SHA1: 0420f74fcc0fc40cf19110a1df7667a46ac6b532
+SHA256: f8dc3521e0d4ce69097491ab64cad5b4154e6a6cc085d6e8be9c394ea808a572
+Section: Tweaks
+Description: Hide the notch on notched iPhones, iOS 11? - 13
+Author: Egg aka CRKatri
+Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
+Name: eggNotch
+
 Package: com.crkatri.neofetch
 Version: 7.0.0-1
 Architecture: iphoneos-arm
