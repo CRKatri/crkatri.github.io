@@ -19,10 +19,7 @@
          "bootstrap_tar" : "https://crkatri.github.io/loader/ios/cydia/cydia.tar.lzma"
       },
       {
-          "label" : "Installer",
-          "icon" : "https://crkatri.github.io/loader/installer.png",
-          "install_package" : "me.apptapp.installer",
-          "bundle_identifier" : "me.apptapp.installer"
+          "label" : "Installer"
       }
    ],
    "core_bootstrap_tar" : "https://assets.checkra.in/loader/ios/core/strap.tar.lzma",
