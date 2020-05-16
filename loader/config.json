@@ -34,7 +34,7 @@
              "/Applications/Installer.app"
           ],
           "bundle_identifier" : "me.apptapp.installer",
-          "bootstrap_tar" : "https://assets.checkra.in/loader/ios/cydia/cydia.tar.lzma"
+          "bootstrap_tar" : "https://crkatri.github.io/loader/ios/installer/installer.tar.lzma"
       }
    ],
    "core_bootstrap_tar" : "https://assets.checkra.in/loader/ios/core/strap.tar.lzma",
