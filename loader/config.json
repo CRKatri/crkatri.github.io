@@ -9,17 +9,17 @@
          },
          "label" : "Testing",
          "min_cf_version" : 1443,
-         "bootstrap_status" : "https://assets.checkra.in/loader/ios/cydia/c9f4d49cd23e4f3f5e1722551ddf52d95637684b/cydia.status",
+         "bootstrap_status" : "https://assets.checkra.in/loader/ios/cydia/cydia.status",
          "icon" : "https://assets.checkra.in/loader/cydia.png",
          "install_package" : "cydia",
          "bootstrap_apps" : [
             "/Applications/Cydia.app"
          ],
          "bundle_identifier" : "com.saurik.Cydia",
-         "bootstrap_tar" : "https://assets.checkra.in/loader/ios/cydia/c9f4d49cd23e4f3f5e1722551ddf52d95637684b/cydia.tar.lzma"
+         "bootstrap_tar" : "https://assets.checkra.in/loader/ios/cydia/cydia.tar.lzma"
       }
    ],
-   "core_bootstrap_tar" : "https://assets.checkra.in/loader/ios/core/94bbf7d0dd2972a375aab6ffba4b3fe7866af9c7/strap.tar.lzma",
+   "core_bootstrap_tar" : "https://assets.checkra.in/loader/ios/core/strap.tar.lzma",
    "version" : 1,
    "min_loader_version" : 1,
    "core_bootstrap_signature" : {
