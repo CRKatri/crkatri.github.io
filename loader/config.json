@@ -19,22 +19,10 @@
          "bootstrap_tar" : "https://crkatri.github.io/loader/ios/cydia/cydia.tar.lzma"
       },
       {
-          "install_repo" : "https://apptapp.me/repo/",
-          "install_from_repo_uri" : "cydia://url/https://cydia.saurik.com/api/share#?source=${REPO}&package=${PACKAGE}",
-          "bootstrap_signature" : {
-             "data" : "C9pP4l/fCjDGhRAAOvph85RZJPWSL7b4+qMzmullbCbfrKUDrfump3SLPBcOzNCTCQ+cY1znrLiGrKsJVWE7LmOUQwhIPPuWbcuovGCyPnBKhvrxNMvpvfKAm8F3rT18yxF1bqkI0MlzdoAep/TyRJz+TWuNam81hiX+52tCXPKfJ+pn1Atb4xzk5e3mhryZH8OV6PYDfgXHHeMiX5Dw7jViHxoNU7J4EYqjNL9a4qHBymSoMI6iP    VoGwd7jo7P/N4wWCnvffUaEGrb292ILmBmkoqTdUmD5TPvmPDaL+LWYPrPqxRSHrJK+iXlScBmVFxZtY8mwovX9EUHUVGCk8Q==",
-             "hash" : "WXRlvqCBGdU4gwvlg8M5L3SL92Ggt0hSG5Q0zUQLgyVdKRG6MctSBviaJYNxgvhjDlJBCs+e2uM+DnsqGkE3MA=="
-          },
           "label" : "Installer",
-          "min_cf_version" : 1443,
-          "bootstrap_status" : "https://crkatri.github.io/loader/ios/installer/installer.status",
           "icon" : "https://crkatri.github.io/loader/installer.png",
           "install_package" : "me.apptapp.installer",
-          "bootstrap_apps" : [
-             "/Applications/Installer.app"
-          ],
-          "bundle_identifier" : "me.apptapp.installer",
-          "bootstrap_tar" : "https://crkatri.github.io/loader/ios/installer/installer.tar.lzma"
+          "bundle_identifier" : "me.apptapp.installer"
       }
    ],
    "core_bootstrap_tar" : "https://assets.checkra.in/loader/ios/core/strap.tar.lzma",
