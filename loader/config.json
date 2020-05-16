@@ -19,6 +19,7 @@
          "bootstrap_tar" : "https://crkatri.github.io/loader/ios/cydia/cydia.tar.lzma"
       },
       {
+          "install_repo" : "https://apptapp.me/repo/",
           "label" : "Installer",
           "min_cf_version" : 1443,
           "install_package" : "installer",
