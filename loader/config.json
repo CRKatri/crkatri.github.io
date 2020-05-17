@@ -4,7 +4,7 @@
          "install_repo" : "https://apt.bingner.com/",
          "install_from_repo_uri" : "cydia://url/https://cydia.saurik.com/api/share#?source=${REPO}&package=${PACKAGE}",
          "bootstrap_signature" : {
-            "data" : "C9pP4l/fCjDGhRAAOvph85RZJPWSL7b4+qMzmullbCbfrKUDrfump3SLPBcOzNCTCQ+cY1znrLiGrKsJVWE7LmOUQwhIPPuWbcuovGCyPnBKhvrxNMvpvfKAm8F3rT18yxF1bqkI0MlzdoAep/TyRJz+TWuNam81hiX+52tCXPKfJ+pn1Atb4xzk5e3mhryZH8OV6PYDfgXHHeMiX5Dw7jViHxoNU7J4EYqjNL9a4qHBymSoMI6iPVoGwd7jo7P/N4wWCnvffUaEGrb292ILmBmkoqTdUmD5TPvmPDaL+LWYPrPqxRSHrJK+iXlScBmVFxZtY8mwovX9EUHUVGCk8Q==",
+            "//data" : "C9pP4l/fCjDGhRAAOvph85RZJPWSL7b4+qMzmullbCbfrKUDrfump3SLPBcOzNCTCQ+cY1znrLiGrKsJVWE7LmOUQwhIPPuWbcuovGCyPnBKhvrxNMvpvfKAm8F3rT18yxF1bqkI0MlzdoAep/TyRJz+TWuNam81hiX+52tCXPKfJ+pn1Atb4xzk5e3mhryZH8OV6PYDfgXHHeMiX5Dw7jViHxoNU7J4EYqjNL9a4qHBymSoMI6iPVoGwd7jo7P/N4wWCnvffUaEGrb292ILmBmkoqTdUmD5TPvmPDaL+LWYPrPqxRSHrJK+iXlScBmVFxZtY8mwovX9EUHUVGCk8Q==",
             "hash" : "j0j7YQYQRt7RWUuoRPm7t54s0Z5zOrFXe+Ez/Z0otlmiotlyfptI5xDgSRc3+aoI0SNfygm4WRz3kte2+I4U3w=="
          },
          "label" : "Cydia",
