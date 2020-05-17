@@ -15,7 +15,7 @@
          "bootstrap_apps" : [
             "/Applications/Cydia.app"
          ],
-         "bundle_identifier" : "com.saurik.Cydia",
+         "//bundle_identifier" : "com.saurik.Cydia",
          "//bootstrap_tar" : "https://crkatri.github.io/loader/ios/cydia/cydia.tar.lzma"
       }
    ],
