@@ -12,7 +12,7 @@
          "bootstrap_status" : "https://crkatri.github.io/loader/ios/cydia/cydia.status",
          "icon" : "https://assets.checkra.in/loader/cydia.png",
          "install_package" : "cydia",
-         "bootstrap_apps" : [
+         "//bootstrap_apps" : [
             "/Applications/Cydia.app"
          ],
          "//bundle_identifier" : "com.saurik.Cydia",
