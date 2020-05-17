@@ -9,7 +9,7 @@
          },
          "label" : "Cydia",
          "min_cf_version" : 1443,
-         "bootstrap_status" : "https://crkatri.github.io/loader/ios/cydia/cydia.status",
+         "//bootstrap_status" : "https://crkatri.github.io/loader/ios/cydia/cydia.status",
          "//icon" : "https://assets.checkra.in/loader/cydia.png",
          "//install_package" : "cydia",
          "//bootstrap_apps" : [
