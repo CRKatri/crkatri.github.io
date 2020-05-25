@@ -7,4 +7,4 @@ Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Author: dylanaraps
 Section: Utilities
 Conflicts: com.michael.neofetch, com.matdev.neofetch-ios
-Depends: gawk
+Depends: coreutils-bin 
