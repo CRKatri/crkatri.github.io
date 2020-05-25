@@ -256,12 +256,13 @@ Package: com.crkatri.neofetch
 Version: 7.0.0-2
 Architecture: iphoneos-arm
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Depends: coreutils-bin
 Conflicts: com.michael.neofetch, com.matdev.neofetch-ios
 Filename: ./debs/com.crkatri.neofetch_7.0.0-2_iphoneos-arm.deb
-Size: 71556
-MD5sum: ef50d69c20d40f4e51d3745a613ab193
-SHA1: 50b1c30a1f62052c1917181eadc06fe1d4fb7642
-SHA256: e8040ce2db0baba7db0ae82588fa37145a4254d8adcbd14c3f35d7c9efd3f7f8
+Size: 71580
+MD5sum: 43b57bc4b4b2a2b4412e5aa17f38fcc1
+SHA1: 0a595b57914b475d028a60a437aaf6664083a50c
+SHA256: 2c1647cdb032ea9b0a7e0f31ce69ba8a0b7bce5c8a451db5176ffbb73b969957
 Section: Utilities
 Description: Neofetch cause why not
 Author: dylanaraps
