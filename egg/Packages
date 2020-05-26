@@ -1,0 +1,60 @@
+Package: com.castyte.eggcrypt
+Version: 3.0.2
+Architecture: iphoneos-arm
+Maintainer: Castyte
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.castyte.eggcrypt_3.0.2_iphoneos-arm.deb
+Size: 31466
+MD5sum: f9414f959b1de9686b6b25410581a8c6
+SHA1: 821bc9af3246914ee96ab2052ae659410f404095
+SHA256: a378d14ae8e0240b1bd38b9d4d07f5fe9fc1204ba39a288063f2599a1f63acb4
+Section: Tweaks
+Description: Automatically encrypts/decrypts Discord messages
+Author: Castyte
+Name: eggcrypt
+
+Package: com.castyte.mk1
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: Castyte
+Depends: mobilesubstrate, firmware (>= 13.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
+Filename: ./debs/com.castyte.mk1_9.9.9_iphoneos-arm.deb
+Size: 385308
+MD5sum: 8cdf3745b50e9f5562b07d2eea19f359
+SHA1: 5ff21a7bd5c8a9dd5b2f4bd3b4af48d7e85e5683
+SHA256: 88b0dfdccb5b376bc1381ea1a2df9586070aede1d8473d46a7e4a9c7cce9868c
+Section: Utilities
+Description: Powerful JavaScript automation and scripting tool.
+Author: Castyte
+Name: MK1
+
+Package: com.castyte.mk1cc
+Version: 0.0.1--privatebeta
+Architecture: iphoneos-arm
+Maintainer: Castyte
+Depends: com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: ./debs/com.castyte.mk1cc_0.0.1--privatebeta_iphoneos-arm.deb
+Size: 5926
+MD5sum: 45d68b508dc86106c1e240beb047ce55
+SHA1: 96b61c5de44026696657477decace0b8e7166d8a
+SHA256: 2fe1a1ca29b16a70e01fe8d2ec9373730ee08db2b144429dfb353ee151e588f5
+Section: Control Center (Modules)
+Description: An awesome Control Center module!
+Author: Castyte
+Name: MK1 Control Center Trigger
+
+Package: com.castyte.mk1xenhtml
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Castyte
+Depends: mobilesubstrate, com.castyte.mk1, com.matchstic.xenhtml
+Filename: ./debs/com.castyte.mk1xenhtml_1.0.0_iphoneos-arm.deb
+Size: 5594
+MD5sum: b50de524552e06aeee605f205f1c5d77
+SHA1: fb521e3e4cead3816915b6bac537f3fe51b73a23
+SHA256: 7d19c020a53a50bd601dd34976700985179f3d9dc2179fe0679dd7e39a8c05d2
+Section: Addons (MK1)
+Description: Trigger MK1 Scripts from XenHTML
+Author: Castyte
+Name: MK1 XenHTML
+
