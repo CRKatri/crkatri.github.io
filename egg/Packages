@@ -73,3 +73,18 @@ Description: This tweak enables sharing scripts through the MK1 app by replacing
 Author: Manual
 Name: MK1 Server Patch
 
+Package: com.manual.mk1-server-patch
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Manual
+Depends: com.castyte.mk1(=9.9.9)
+Filename: ./debs/com.manual.mk1-server-patch_1.0.1_iphoneos-arm.deb
+Size: 1120
+MD5sum: e863de983074ea4741cdcf093dbf9118
+SHA1: aabde52afb0f09ab6baf86c3490b8fad29dd87a4
+SHA256: 443c3df4571c3c350286c12d381d2af5fa3d2747ece28a3fefa83cefb6c04446
+Section: Utilities
+Description: This tweak enables sharing scripts through the MK1 app by replacing the server with mk1c.catto.io.
+Author: Manual
+Name: MK1 Server Patch
+
