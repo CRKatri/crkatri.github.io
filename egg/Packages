@@ -58,3 +58,18 @@ Description: Trigger MK1 Scripts from XenHTML
 Author: Castyte
 Name: MK1 XenHTML
 
+Package: com.manual.mk1-server-patch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Manual
+Depends: com.castyte.mk1
+Filename: ./debs/com.manual.mk1-server-patch_1.0.0_iphoneos-arm.deb
+Size: 1116
+MD5sum: fe7dfe3a3c4186c394793bbc43787aff
+SHA1: 56d6328a0828ec2503447ef2015cbd41f8b4ae77
+SHA256: 8b456cea6fa5864ca40852f7ac524675ec0882e9a163daf8dec1842cf0b44834
+Section: Utilities
+Description: This tweak enables sharing scripts through the MK1 app by replacing the server with mk1c.catto.io.
+Author: Manual
+Name: MK1 Server Patch
+
