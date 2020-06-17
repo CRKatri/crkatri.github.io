@@ -346,6 +346,20 @@ Description: pfetch cause why not
 Author: dylanaraps
 Name: pfetch
 
+Package: com.crkatri.respringentry
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Egg aka CRKatri
+Depends: preferenceloader
+Filename: ./debs/com.crkatri.respringentry_0.0.1_iphoneos-arm.deb
+Size: 932
+MD5sum: 2617dbd670f21cd2036f4067f9654196
+SHA1: badf3645c07630b52fe8fb509583d6ae2f5c85f3
+SHA256: 556d2570839b724d6556c3fea81fc11e10f378d3f1fcf59dad72eaae80fac123
+Description: This literally just crashes your phone, please don't install it
+Author: Egg aka CRKatri
+Name: Respring Entry
+
 Package: com.crkatri.ufetch
 Version: 1.0.1-1
 Architecture: iphoneos-arm
