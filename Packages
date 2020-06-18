@@ -1,6 +1,7 @@
 Package: com.castyte.eggcrypt
-Version: 3.0.2
 Architecture: iphoneos-arm
+Version: 3.0.2
+Section: Tweaks
 Maintainer: Castyte
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.castyte.eggcrypt_3.0.2_iphoneos-arm.deb
@@ -8,14 +9,15 @@ Size: 31466
 MD5sum: f9414f959b1de9686b6b25410581a8c6
 SHA1: 821bc9af3246914ee96ab2052ae659410f404095
 SHA256: a378d14ae8e0240b1bd38b9d4d07f5fe9fc1204ba39a288063f2599a1f63acb4
-Section: Tweaks
+SHA512: 9a2e0d35c5184557dca6a194fb252dfb64cbbd679cb3a751a0c3b45c1a6da2cbab2bc442de9f351bb959a825e25b6967bd98d2092d6934c9de825eaf40e2512d
 Description: Automatically encrypts/decrypts Discord messages
-Author: Castyte
 Name: eggcrypt
+Author: Castyte
 
 Package: com.crkatri.cowsay
-Version: 1.0-2
 Architecture: iphoneos-arm
+Version: 1.0-2
+Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Conflicts: cowsay
 Filename: ./debs/com.crkatri.cowsay-1.0-2.deb
@@ -23,7 +25,7 @@ Size: 11760
 MD5sum: 2be21991e21cc4941b4bc46958288cc3
 SHA1: 8104ecfd7c786e9641f0c3d72b6c13f72e606722
 SHA256: 03b2a4ecee60751606f1c888281b1f1dc9a8b66d944eed7d107b22bfd5a3fc45
-Section: Utilities
+SHA512: 3f3d08c144abb20ae81962e1f48206e82f213dba2a6cd0ffa54112a08c0ab2b47e3e56c80f38c0537370a11ef428588c01b18babd5df92744bcec887745f11d7
 Description: Cowsay but working
       _______________________________
      < This is useless and very dumb >
@@ -33,13 +35,14 @@ Description: Cowsay but working
                  (__)\       )\/\
                      ||----w |
                      ||     ||
-Author: Cameron Katri <katri.cameron@gmail.com>
 Name: Cowsay
+Author: Cameron Katri <katri.cameron@gmail.com>
 Requires: perl
 
 Package: com.crkatri.cowsay
-Version: 1.0-3
 Architecture: iphoneos-arm
+Version: 1.0-3
+Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Conflicts: cowsay
 Filename: ./debs/com.crkatri.cowsay-1.0-3.deb
@@ -47,15 +50,16 @@ Size: 11640
 MD5sum: 5f110a86c8bb6073ddb68032484064ba
 SHA1: 59f73d476b789ca4616d5421c7c5529521672cf9
 SHA256: 4d5a971c8db64c70811bb0d924eebf1758467688fd2dea202b71e0ca96900930
-Section: Utilities
+SHA512: 56b7f48c694293c0fac7315f84663c261c3259fecafd4a60151c0628d71f082a821e79fc8814741a2baac1e7932fdee1f1d8e98df3b413fe6eb19d3eb2cf16d2
 Description: Cowsay but working
-Author: Cameron Katri <katri.cameron@gmail.com>
 Name: Cowsay
+Author: Cameron Katri <katri.cameron@gmail.com>
 Requires: perl
 
 Package: com.crkatri.cowsay
-Version: 1.0-4
 Architecture: iphoneos-arm
+Version: 1.0-4
+Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Depends: perl
 Conflicts: cowsay
@@ -64,14 +68,15 @@ Size: 11640
 MD5sum: 5bcc68c1155b346787a92e68c6027f3d
 SHA1: 8ea6deec17def32cfdb86591bead273ae330e155
 SHA256: c0ad7a31a2d109ec87c3d872e12f4a77bab97bcbcb1a39e9c4e68b52c95b8811
-Section: Utilities
+SHA512: 78ea13ae8b330e40345457b34c9d463dc502510a22cca6657f81514222ccdec66a1de1eb4b32292762a0a166c9727a614f0f5c710cdff514dd43a4d8b188850e
 Description: Cowsay but working
-Author: Cameron Katri <katri.cameron@gmail.com>
 Name: Cowsay
+Author: Cameron Katri <katri.cameron@gmail.com>
 
 Package: com.crkatri.cowsay
-Version: 1.1-1
 Architecture: iphoneos-arm
+Version: 1.1-1
+Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Depends: perl
 Conflicts: cowsay
@@ -80,14 +85,15 @@ Size: 12712
 MD5sum: b43651cda97258a51bf76e68d8481a90
 SHA1: bb1ff515f22e5014f8a8a8c2767e6d6c777a5552
 SHA256: 4bd9ca7b05fc33239c5710e8124d2a206b33a5da66eeb67f4cc5424a2687fe56
-Section: Utilities
+SHA512: d2ca9e1190428707b523157e0c417567f589765cee8b4479b602532dbd045046b46b42b1321f7eef3bd2555ed6ae14e100f7c1ada222095b3b089323f7be8e78
 Description: Cowsay but working
-Author: Cameron Katri <katri.cameron@gmail.com>
 Name: Cowsay
+Author: Cameron Katri <katri.cameron@gmail.com>
 
 Package: com.crkatri.cowsay
-Version: 1.1-2
 Architecture: iphoneos-arm
+Version: 1.1-2
+Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Conflicts: cowsay
 Filename: ./debs/com.crkatri.cowsay_1.1-2_iphoneos-arm.deb
@@ -95,14 +101,15 @@ Size: 11628
 MD5sum: 31647c17dde423585016f54bcd4bb2f9
 SHA1: dc5fd8188876259304c5e51b4ed05e81c7d5db11
 SHA256: beb1519cb10460608996a4a6968308c7789bc785b1ad064ee61c0366e3f12424
-Section: Utilities
+SHA512: 49ccbc9cf338b320593f7abf5540513815415d043f3aeca2f3811377d6dbc0faf97f9a94e41735457625d8cc94368d8d4ada1038b715656a65f9c5ece71fe830
 Description: Cowsay but working
-Author: Cameron Katri <katri.cameron@gmail.com>
 Name: Cowsay
+Author: Cameron Katri <katri.cameron@gmail.com>
 
 Package: com.crkatri.cowsay
-Version: 1.1-3
 Architecture: iphoneos-arm
+Version: 1.1-3
+Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Depends: perl
 Conflicts: cowsay
@@ -111,31 +118,32 @@ Size: 11636
 MD5sum: ce0b0f007d036d9be2c8c7808aa4edf7
 SHA1: e66d8000717489fee7b50b4cb1db08f57b0c8cf5
 SHA256: 64368b0dd57b3c630cb7d671b577c175cac52f4566590c3ae71fa7c15de78be6
-Section: Utilities
+SHA512: daac11e1d10d49ffb7c546802747ae7abd0020ff7f567f76e9538d6e4820bbfceca7ac498124a83d045a55c939ffc96881e1987792a44081f296c700498e5e6c
 Description: Cowsay but working
-Author: Cameron Katri <katri.cameron@gmail.com>
 Name: Cowsay
+Author: Cameron Katri <katri.cameron@gmail.com>
 
-Package: com.crkatri.eggnotch
-Version: 0.0.2
+Package: com.crkatri.dontkilltermius
 Architecture: iphoneos-arm
-Maintainer: Egg aka CRKatri
-Installed-Size: 248
-Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.crkatri.eggnotch_0.0.2_iphoneos-arm.deb
-Size: 8112
-MD5sum: 5a1922fa496390d7d07d7bd0e3801145
-SHA1: e05bcd0f6b22eb66a2a536cd26975b1275cb0e96
-SHA256: e2ade974b5296e8ab54f6462825c381ae8d26234395277c1e4b62b03a17510f5
+Version: 0.0.1
 Section: Tweaks
-Description: Hide the notch on notched iPhones, iOS 11? - 13
-Author: Egg aka CRKatri
-Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
-Name: eggNotch
+Maintainer: Cameron Katri
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.crkatri.dontkilltermius_0.0.1_iphoneos-arm.deb
+Size: 2262
+MD5sum: 811632a4014271972e9c2b431e0d0785
+SHA1: 762a76a5f81e2f00d43828f6bcdfc3177a028b1a
+SHA256: 1f9aede7d78b29ee9df4c6f8024315110d2a9f0fa7778aa6f6a98a0680d53094
+SHA512: 7d669f3abd08957a3a0262a10741bcfd20f9944556ca6be599b38eb4f6e31cd66841c66111d09178cf47dbab8a60ae8a52f7ad8bbc0b76dee11b9a96b8f0adbd
+Description: An awesome MobileSubstrate tweak!
+Name: Don't Kill Termius
+Author: Cameron Katri
 
 Package: com.crkatri.eggnotch
-Version: 0.0.2-2
 Architecture: iphoneos-arm
+Version: 0.0.2-2
+Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 248
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
@@ -144,15 +152,16 @@ Size: 8118
 MD5sum: 82896b554b4dbd5f210371801bce7f2e
 SHA1: 7c645eb558d0f0b9f0289d84f92a17ef21210177
 SHA256: ece1be7666ee5c34ac818598ab45e6c7d49dcf0c2281251eb1ac66e4c8a46213
-Section: Tweaks
+SHA512: 9a4c16abca3124963f25b6116cedc0c3080946c22d0ab801bfd87149ecba8277a4f93f4deda1f61eccdf016df010f9923465134bbf981e2253de44384512456e
 Description: Hide the notch on notched iPhones, iOS 11? - 13
+Name: eggNotch
 Author: Egg aka CRKatri
 Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
-Name: eggNotch
 
 Package: com.crkatri.eggnotch
-Version: 0.0.2-3
 Architecture: iphoneos-arm
+Version: 0.0.2-3
+Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 248
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
@@ -161,15 +170,16 @@ Size: 8066
 MD5sum: ab5347e308ca8f9e46651d47e91acec0
 SHA1: 1a49736e7d6f3083cf8185c6df24f5a4ac0857ec
 SHA256: b676cd5405fbb1c53519e2512c067e42b2c01f41ce2d4c094989258d39a379ab
-Section: Tweaks
+SHA512: 5090037dad0dc8a669a4e2b89ce0d0a17455724f7b714ea94d180416765fec806c104be560f65a35e615ecb12e1c8975074b04b7a90bcdc1746804c07dabacbc
 Description: Hide the notch on notched iPhones, iOS 11? - 13
+Name: eggNotch
 Author: Egg aka CRKatri
 Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
-Name: eggNotch
 
 Package: com.crkatri.eggnotch
-Version: 0.0.2-4
 Architecture: iphoneos-arm
+Version: 0.0.2-4
+Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 248
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
@@ -178,32 +188,16 @@ Size: 8068
 MD5sum: 8cae7ae11762a3ee37199db385b10356
 SHA1: 3f0766b598718abd78c3387c4613cad482105a30
 SHA256: 44984f141c29413539a7799b3e854def3fb9e0f0da517726a61ab78df1f53021
-Section: Tweaks
+SHA512: 31dada69a236dd470bab77e7d05538f343fa70498f02431e7ba29bfd9714c3e52acfe5efedf99f404a1db8015e28e9657a3f094496d622b789d52a70ed3b0d1f
 Description: Hide the notch on notched iPhones, iOS 11? - 13
+Name: eggNotch
 Author: Egg aka CRKatri
 Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
-Name: eggNotch
 
 Package: com.crkatri.eggnotch
-Version: 0.0.2-5
 Architecture: iphoneos-arm
-Maintainer: Egg aka CRKatri
-Installed-Size: 248
-Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.crkatri.eggnotch_0.0.2-5_iphoneos-arm.deb
-Size: 8062
-MD5sum: 2accb0d9f2ac6cf4f982f7026c7cd7af
-SHA1: a6ee6b7432fee9416dd8a493df984cbab0585b3c
-SHA256: fda314918ab02e047432e23c642959cb72708a54f369f3f1e4e408255615f93b
-Section: Tweaks
-Description: Hide the notch on notched iPhones, iOS 11? - 13
-Author: Egg aka CRKatri
-Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
-Name: eggNotch
-
-Package: com.crkatri.eggnotch
 Version: 0.0.2-55+debug
-Architecture: iphoneos-arm
+Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 252
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
@@ -212,15 +206,34 @@ Size: 11498
 MD5sum: 97013ecc169f463f2c77da29c0592041
 SHA1: 18f05d1cd2aeaaa14c4a62af18f7e5bc9856b6c3
 SHA256: 672cba3e5990df14fe5a6d803a72e611dad66e2454c99d4d8504c505df326e0b
-Section: Tweaks
+SHA512: f91f87704982cb2b28b539ef0d3e55d90466abf500e0fdbd155badaa3622caf6669a42c1eec222324140b087b699ce24cd05fd725c70d50f07add090338d77ed
 Description: Hide the notch on notched iPhones, iOS 11? - 13
+Name: eggNotch
 Author: Egg aka CRKatri
 Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
-Name: eggNotch
 
 Package: com.crkatri.eggnotch
-Version: 0.0.2-62+debug
 Architecture: iphoneos-arm
+Version: 0.0.2-5
+Section: Tweaks
+Maintainer: Egg aka CRKatri
+Installed-Size: 248
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.crkatri.eggnotch_0.0.2-5_iphoneos-arm.deb
+Size: 8062
+MD5sum: 2accb0d9f2ac6cf4f982f7026c7cd7af
+SHA1: a6ee6b7432fee9416dd8a493df984cbab0585b3c
+SHA256: fda314918ab02e047432e23c642959cb72708a54f369f3f1e4e408255615f93b
+SHA512: d6fdd51e402c97fe173764af7ab046fb4779fe5f0c4951048641e90462b047ec0cfeea020c030a5e299b5463fb8a450f8a40467949f6e003862fcef1db8255ff
+Description: Hide the notch on notched iPhones, iOS 11? - 13
+Name: eggNotch
+Author: Egg aka CRKatri
+Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
+
+Package: com.crkatri.eggnotch
+Architecture: iphoneos-arm
+Version: 0.0.2-62+debug
+Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 252
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
@@ -229,15 +242,34 @@ Size: 11490
 MD5sum: 6d839724af7813769ba922a08dd53a55
 SHA1: 358610a183809a2a01f8371879469c71eec1159c
 SHA256: 70c3397e0caefec72d8fd47b66b93ce44c43601a0f59a5f322fd081ef7f659b0
-Section: Tweaks
+SHA512: 0075bf1223b8850aa06b10592213838bb9e31596db60924d121e0b7c4adeaa46851e50b5eb3f7340dedd18cb871154b485fa24f2aaa7b8741050f64b92990529
 Description: Hide the notch on notched iPhones, iOS 11? - 13
+Name: eggNotch
 Author: Egg aka CRKatri
 Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
-Name: eggNotch
 
 Package: com.crkatri.eggnotch
-Version: 0.0.3-1+debug
 Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Egg aka CRKatri
+Installed-Size: 248
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.crkatri.eggnotch_0.0.2_iphoneos-arm.deb
+Size: 8112
+MD5sum: 5a1922fa496390d7d07d7bd0e3801145
+SHA1: e05bcd0f6b22eb66a2a536cd26975b1275cb0e96
+SHA256: e2ade974b5296e8ab54f6462825c381ae8d26234395277c1e4b62b03a17510f5
+SHA512: 06376b5551706c2a60040119fd0a9a9301e541d4f942ea4529009b064238fd95b6bf65399719f3cfb246fc6d1e4f0d11573e29fd11dbd7f7adeef895faa13986
+Description: Hide the notch on notched iPhones, iOS 11? - 13
+Name: eggNotch
+Author: Egg aka CRKatri
+Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
+
+Package: com.crkatri.eggnotch
+Architecture: iphoneos-arm
+Version: 0.0.3-1+debug
+Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 252
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
@@ -246,15 +278,16 @@ Size: 11488
 MD5sum: a8d6657c99a2f9a110ca2adabe822e16
 SHA1: 3232cdad9b3b844b0a0c0dc727ddd42828fed595
 SHA256: c93f06718de7ed8ad2a41b0e462d32e69d59d6e7382a12ce013d8f31c830a0f5
-Section: Tweaks
+SHA512: 4f84fc8292e91cd57d1679c3f22b7351cf5166de30c27d1bb7939cfe2c371530ac6dd332b2717d9c61ab191c9dec077787071249e0640c7b1114cf9cec555c15
 Description: Hide the notch on notched iPhones, iOS 11? - 13
+Name: eggNotch
 Author: Egg aka CRKatri
 Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
-Name: eggNotch
 
 Package: com.crkatri.eggnotch
-Version: 0.0.3-20+debug
 Architecture: iphoneos-arm
+Version: 0.0.3-20+debug
+Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 252
 Depends: mobilesubstrate, com.spark.libsparkcolourpicker, ws.hbang.common, com.spark.libsparkapplist
@@ -263,15 +296,16 @@ Size: 12390
 MD5sum: 53c8e34021cce755f25f39a0003fd74e
 SHA1: 100309307827e5045f5973816881bba346b2df50
 SHA256: 2067cf5f37af304e62ce83d30591a5434561603dd609e619589174f2c7092fb4
-Section: Tweaks
+SHA512: e03caca0339da325d342165fe51053294fec44ea0bf1251613b1dde87f0a6aaf71e454f4f1318b7d8505dce2b4096c7d0f5006acb111076531c9bd513d8c781a
 Description: Hide the notch on notched iPhones, iOS 11? - 13
+Name: eggNotch
 Author: Egg aka CRKatri
 Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
-Name: eggNotch
 
 Package: com.crkatri.eggnotch
-Version: 0.0.3-6+debug
 Architecture: iphoneos-arm
+Version: 0.0.3-6+debug
+Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 252
 Depends: mobilesubstrate, com.spark.libsparkcolourpicker, ws.hbang.common
@@ -280,15 +314,16 @@ Size: 11942
 MD5sum: 3954e3c8b5edf9acb70d3ff3c47ae474
 SHA1: ce9e68849637e13c60f6f523bcda856665b2ead4
 SHA256: 7e0d5edf637fddfe548bc10f600a7d19a517882fa3017188238a8b8a2a6b1e0d
-Section: Tweaks
+SHA512: b11bcd68e5c186344bf92955f2a4cec417cc102a17105cc67f43f3e364cc9a5240cf8cdca506810a4e4a900280aece73736ddb50057520642fb841a9b181229c
 Description: Hide the notch on notched iPhones, iOS 11? - 13
+Name: eggNotch
 Author: Egg aka CRKatri
 Depiction: https://crkatri.github.io/depictions/com.crkatri.eggNotch
-Name: eggNotch
 
 Package: com.crkatri.neofetch
-Version: 7.0.0-1
 Architecture: iphoneos-arm
+Version: 7.0.0-1
+Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Conflicts: com.michael.neofetch, com.matdev.neofetch-ios
 Filename: ./debs/com.crkatri.neofetch-7.0.0-1.deb
@@ -296,14 +331,15 @@ Size: 71548
 MD5sum: 64cf669468a889ea704e0685d8467f3d
 SHA1: cdc247235fbdc82a18e5643ac907411364ffa980
 SHA256: 26e92c24501ebd47e201456193de93becbc68df6358fbf0cd382e929098ac60a
-Section: Utilities
+SHA512: 5347d5ee16ffb5b3bc9ffd388721642755d2f9c2e9e475dddba1152521f00d2fb42d4c1d7fba3bae7ca85190a69fa7b42d41b672d0abdeca88e4e13c08e4176a
 Description: Neofetch cause why not
-Author: Cameron Katri <katri.cameron@gmail.com>
 Name: Neofetch
+Author: Cameron Katri <katri.cameron@gmail.com>
 
 Package: com.crkatri.neofetch
-Version: 7.0.0-2
 Architecture: iphoneos-arm
+Version: 7.0.0-2
+Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Depends: coreutils-bin
 Conflicts: com.michael.neofetch, com.matdev.neofetch-ios
@@ -312,43 +348,45 @@ Size: 71580
 MD5sum: 43b57bc4b4b2a2b4412e5aa17f38fcc1
 SHA1: 0a595b57914b475d028a60a437aaf6664083a50c
 SHA256: 2c1647cdb032ea9b0a7e0f31ce69ba8a0b7bce5c8a451db5176ffbb73b969957
-Section: Utilities
+SHA512: 591537676ee6f0489550d97ae7b3a985d69f9032adffbb716e90bb6bcb693663c6ff14356dc5124b4ab7c86951b690d597d36dca64c28d7ef6890fbd7a9561bf
 Description: Neofetch cause why not
-Author: dylanaraps
 Name: Neofetch
+Author: dylanaraps
 
 Package: com.crkatri.pfetch
-Version: 1.0-1
 Architecture: iphoneos-arm
+Version: 1.0-1
+Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Filename: ./debs/com.crkatri.pfetch_1.0-1_iphoneos-arm.deb
 Size: 14392
 MD5sum: 379f85e9e64ecfb473f8e58196c0c879
 SHA1: b8e4f1aa754791e680ab0d18733c1ef644c1c3b6
 SHA256: 2f2cd4b9ad3069012b3e00a4b24c415af2ae0b6d56f480ed4d5807afb25849fc
-Section: Utilities
+SHA512: 8c7cc396242b8a9ae1eb12cf8401a924b4de2e93f49813aeb3cf42b96a94d114c905da52c7a9b422c4114575aa6cba7712da315c7b5781266df2f06d47564b9a
 Description: pfetch cause why not
-Author: Cameron Katri <katri.cameron@gmail.com>
 Name: pfetch
+Author: Cameron Katri <katri.cameron@gmail.com>
 
 Package: com.crkatri.pfetch
-Version: 1.0-2
 Architecture: iphoneos-arm
+Version: 1.0-2
+Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Filename: ./debs/com.crkatri.pfetch_1.0-2_iphoneos-arm.deb
 Size: 14432
 MD5sum: 0a982483392947a9583d190a7e2f2ad9
 SHA1: af515edd5c5a3c25b7da7775873aebb0d8862cf3
 SHA256: a16ef5af12089362a73cc91ed7b87af71c02c9a7afe0fb393e380e850ac4bcb2
-Section: Utilities
+SHA512: 03d87d810e16ea78bb00f8fad3743662dd88ab0137405d94b538f537fd553a939cfeb3f056b00a160e730f2b9db8649291212d847caf4cb59936b6ccbf439a1f
 Description: pfetch cause why not
     Slight modifications to work with iOS
-Author: dylanaraps
 Name: pfetch
+Author: dylanaraps
 
 Package: com.crkatri.respringentry
-Version: 0.0.1
 Architecture: iphoneos-arm
+Version: 0.0.1
 Maintainer: Egg aka CRKatri
 Depends: preferenceloader
 Filename: ./debs/com.crkatri.respringentry_0.0.1_iphoneos-arm.deb
@@ -356,42 +394,46 @@ Size: 932
 MD5sum: 2617dbd670f21cd2036f4067f9654196
 SHA1: badf3645c07630b52fe8fb509583d6ae2f5c85f3
 SHA256: 556d2570839b724d6556c3fea81fc11e10f378d3f1fcf59dad72eaae80fac123
+SHA512: b71a4ae7920699ca1ab99689062cbc3fb65564dcdee129b46d08651263084c52948da1460b917f518476e1e877c68edee218032f005cfea355a05b9d88048733
 Description: This literally just crashes your phone, please don't install it
-Author: Egg aka CRKatri
 Name: Respring Entry
+Author: Egg aka CRKatri
 
 Package: com.crkatri.ufetch
-Version: 1.0.1-1
 Architecture: iphoneos-arm
+Version: 1.0.1-1
+Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Filename: ./debs/com.crkatri.ufetch-1.0.1-1.deb
 Size: 1484
 MD5sum: 26a59c801a74e9c411c064ea641c4365
 SHA1: c094df38911990a5f5cbc3ceda1ff0618cf07a9c
 SHA256: 3e6dc5833019568cbdd4d5dca2e2662c6ab8a43881b2cefce5006334233f700e
-Section: Utilities
+SHA512: 80b8d68b912789426285386aada14d28d586204d8706daa79ecc40a2745add3540b80d0e10da91b7566ad348c2a319a4c29d0ad84969811e26e4d7a0e671538f
 Description: ufetch cause why not
-Author: Cameron Katri <katri.cameron@gmail.com>
 Name: ufetch
+Author: Cameron Katri <katri.cameron@gmail.com>
 
 Package: com.crkatri.ufetch
-Version: 1.0.1-2
 Architecture: iphoneos-arm
+Version: 1.0.1-2
+Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Filename: ./debs/com.crkatri.ufetch_1.0.1-2_iphoneos-arm.deb
 Size: 1508
 MD5sum: 1ae4c04322205b66c75d0c2c6af824fa
 SHA1: b5261edcdb1f158841dcee60e06e5cb8d2398335
 SHA256: 9b13a7593665150b5669ed9011566ac31f280e98f96e1bb6edf47b8667ea5be2
-Section: Utilities
+SHA512: 70f9e40df2f2c12b7326896d2c10fa8b39b77426b099cccd0a45473512c20c3a11adf837c9a8cd60df8e011d6b49b4ef6a3aeccdb41bbc4b364f7aedb94e2fac
 Description: ufetch cause why not
     Modified to work with iOS
-Author: Cameron Katri <katri.cameron@gmail.com>
 Name: ufetch
+Author: Cameron Katri <katri.cameron@gmail.com>
 
 Package: com.crkatri.ufetch
-Version: 1.0.1-3
 Architecture: iphoneos-arm
+Version: 1.0.1-3
+Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Depends: gawk
 Filename: ./debs/com.crkatri.ufetch_1.0.1-3_iphoneos-arm.deb
@@ -399,15 +441,16 @@ Size: 1516
 MD5sum: 958b632562bf57a93ff5b45ba090bf1d
 SHA1: 24a355426dd0ced22725c1f2c22bd5975ef18b20
 SHA256: 3e93f0e45ed7e5d5f929cbfd5a29cef298d8c7dafc71d49b713340d0c09dedaa
-Section: Utilities
+SHA512: d1c1934abedeeb0a7d236d1202e4ba380a741439d28fae0588670d39a0c9b2adbbdcbbcdb99d5a0a5e698875bfa07707ec4691e4ff7b0cc606bcae788f086faa
 Description: ufetch cause why not
     Modified to work with iOS
-Author: jschx
 Name: ufetch
+Author: jschx
 
 Package: me.nepeta.exo
-Version: 0.2.0
 Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Development (Nepeta)
 Maintainer: Nepeta
 Installed-Size: 456
 Depends: mobilesubstrate, firmware (>= 11.0)
@@ -416,14 +459,15 @@ Size: 56696
 MD5sum: e14242793f76a95b4385d800508a17b7
 SHA1: fd456db912b26cbac0c9e187a71c8c7b3a7128ce
 SHA256: 81525cff1242cf9abd8eb5031af30226954f6313110dc3f3a797b1d09e7fd002
-Section: Development (Nepeta)
+SHA512: c84195aaff08c90c6a5a830600e2d91e2ee8b841f5886c52b9dd39a57b13c891a19a34109bc0b6e6812ed271166408cffec063e1e5648c75e14389469f0be98c
 Description: Information provider for WKWebView-based widgets.
-Author: Nepeta
 Name: Exo (Beta)
+Author: Nepeta
 
 Package: me.nepeta.exobar
-Version: 0.2.1
 Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks (Nepeta)
 Maintainer: Nepeta
 Installed-Size: 484
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.2), me.nepeta.exo, firmware (>= 11.0)
@@ -432,15 +476,16 @@ Size: 86270
 MD5sum: 7365fac1126eae1c3887ed8a4cb5641f
 SHA1: e9e2d606db4ae9f0562d12cc55120e81cb920091
 SHA256: 6a0e8f106b68a0d7ea3587bf05f871efc02f0974281e0ff91bd088dc5bfdaa47
-Section: Tweaks (Nepeta)
+SHA512: 0fa63c85765eef4544fd0fa8102f2f6a01bfd58a7a680f43e64615764413dddb66696c590cbf96d7ceccb6949c340985357c6cf44070b4bc982643388547c5fa
 Description: HTML in status bar
-Author: Nepeta
-Depiction: http://repo.kritanta.me/depictions/?id=me.nepeta.exobar
 Name: Exobar (Beta)
+Depiction: http://repo.kritanta.me/depictions/?id=me.nepeta.exobar
+Author: Nepeta
 
 Package: ru.domo.cocoatop
-Version: 2.1.3-2
 Architecture: iphoneos-arm
+Version: 2.1.3-2
+Section: Utilities
 Maintainer: CRKatri
 Installed-Size: 736
 Depends: firmware (>= 13.0)
@@ -449,9 +494,9 @@ Size: 142378
 MD5sum: 0b6c3c0cc7fd6a88104c3bae2999bfef
 SHA1: 98a73c27163d0de5283e1b532ebbce23d37270d1
 SHA256: cf7c9c43ae689936ee66a0c76212e3a065c2fa98e9be155b2d0ea2b283b6de98
-Section: Utilities
+SHA512: 32cb1b47146a974d9889ce4d7125d4805915d53378de3121fe9a0c0ae3410329a092a1da7a254c569e31a06834f926eb976acb32c2071bbcfb826cdc760026d8
 Description: Process Viewer for iOS GUI
- Updated for iOS 13 by Fionera
-Author: Domo and Fionera
+	Updated for iOS 13 by Fionera
 Name: CocoaTop iOS 13
+Author: Domo and Fionera
 
