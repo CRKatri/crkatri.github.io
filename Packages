@@ -140,6 +140,23 @@ Description: An awesome MobileSubstrate tweak!
 Name: Don't Kill Termius
 Author: Cameron Katri
 
+Package: com.crkatri.dontkilltermius
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Cameron Katri
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.crkatri.dontkilltermius_0.0.2_iphoneos-arm.deb
+Size: 2276
+MD5sum: 7ae5d8f95ad7cbb11e38584f260a4273
+SHA1: e5a484bb62b5800e638517764699dbb2162693a4
+SHA256: e65c157210111c2de69d4bd67edf307be370a7e066df9d3b50784de3b29a2e75
+SHA512: 595012d5e1a78c88b4691750061b6b5007625de8b0dde10ebbccfa6d033a710dd5a11b3395775bf1887a7e0e14eefefef0d5f3a45c702eb4d46edae786b1e9cf
+Description: Stop Termius From Closing In The Background
+Name: Don't Kill Termius
+Author: Cameron Katri
+
 Package: com.crkatri.eggnotch
 Architecture: iphoneos-arm
 Version: 0.0.2-2
