@@ -4,7 +4,7 @@ Version: 3.0.2
 Section: Tweaks
 Maintainer: Castyte
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/com.castyte.eggcrypt_3.0.2_iphoneos-arm.deb
+Filename: ./debs//com.castyte.eggcrypt_3.0.2_iphoneos-arm.deb
 Size: 31466
 MD5sum: f9414f959b1de9686b6b25410581a8c6
 SHA1: 821bc9af3246914ee96ab2052ae659410f404095
@@ -20,7 +20,7 @@ Version: 1.0-2
 Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Conflicts: cowsay
-Filename: ./debs/com.crkatri.cowsay-1.0-2.deb
+Filename: ./debs//com.crkatri.cowsay-1.0-2.deb
 Size: 11760
 MD5sum: 2be21991e21cc4941b4bc46958288cc3
 SHA1: 8104ecfd7c786e9641f0c3d72b6c13f72e606722
@@ -45,7 +45,7 @@ Version: 1.0-3
 Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Conflicts: cowsay
-Filename: ./debs/com.crkatri.cowsay-1.0-3.deb
+Filename: ./debs//com.crkatri.cowsay-1.0-3.deb
 Size: 11640
 MD5sum: 5f110a86c8bb6073ddb68032484064ba
 SHA1: 59f73d476b789ca4616d5421c7c5529521672cf9
@@ -63,7 +63,7 @@ Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Depends: perl
 Conflicts: cowsay
-Filename: ./debs/com.crkatri.cowsay-1.0-4.deb
+Filename: ./debs//com.crkatri.cowsay-1.0-4.deb
 Size: 11640
 MD5sum: 5bcc68c1155b346787a92e68c6027f3d
 SHA1: 8ea6deec17def32cfdb86591bead273ae330e155
@@ -80,7 +80,7 @@ Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Depends: perl
 Conflicts: cowsay
-Filename: ./debs/com.crkatri.cowsay_1.1-1_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.cowsay_1.1-1_iphoneos-arm.deb
 Size: 12712
 MD5sum: b43651cda97258a51bf76e68d8481a90
 SHA1: bb1ff515f22e5014f8a8a8c2767e6d6c777a5552
@@ -96,7 +96,7 @@ Version: 1.1-2
 Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Conflicts: cowsay
-Filename: ./debs/com.crkatri.cowsay_1.1-2_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.cowsay_1.1-2_iphoneos-arm.deb
 Size: 11628
 MD5sum: 31647c17dde423585016f54bcd4bb2f9
 SHA1: dc5fd8188876259304c5e51b4ed05e81c7d5db11
@@ -113,7 +113,7 @@ Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Depends: perl
 Conflicts: cowsay
-Filename: ./debs/com.crkatri.cowsay_1.1-3_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.cowsay_1.1-3_iphoneos-arm.deb
 Size: 11636
 MD5sum: ce0b0f007d036d9be2c8c7808aa4edf7
 SHA1: e66d8000717489fee7b50b4cb1db08f57b0c8cf5
@@ -130,7 +130,7 @@ Section: Tweaks
 Maintainer: Cameron Katri
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.crkatri.dontkilltermius_0.0.1_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.dontkilltermius_0.0.1_iphoneos-arm.deb
 Size: 2262
 MD5sum: 811632a4014271972e9c2b431e0d0785
 SHA1: 762a76a5f81e2f00d43828f6bcdfc3177a028b1a
@@ -147,7 +147,7 @@ Section: Tweaks
 Maintainer: Cameron Katri
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.crkatri.dontkilltermius_0.0.2_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.dontkilltermius_0.0.2_iphoneos-arm.deb
 Size: 2276
 MD5sum: 7ae5d8f95ad7cbb11e38584f260a4273
 SHA1: e5a484bb62b5800e638517764699dbb2162693a4
@@ -164,7 +164,7 @@ Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 248
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.crkatri.eggnotch_0.0.2-2_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.eggnotch_0.0.2-2_iphoneos-arm.deb
 Size: 8118
 MD5sum: 82896b554b4dbd5f210371801bce7f2e
 SHA1: 7c645eb558d0f0b9f0289d84f92a17ef21210177
@@ -182,7 +182,7 @@ Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 248
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.crkatri.eggnotch_0.0.2-3_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.eggnotch_0.0.2-3_iphoneos-arm.deb
 Size: 8066
 MD5sum: ab5347e308ca8f9e46651d47e91acec0
 SHA1: 1a49736e7d6f3083cf8185c6df24f5a4ac0857ec
@@ -200,7 +200,7 @@ Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 248
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.crkatri.eggnotch_0.0.2-4_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.eggnotch_0.0.2-4_iphoneos-arm.deb
 Size: 8068
 MD5sum: 8cae7ae11762a3ee37199db385b10356
 SHA1: 3f0766b598718abd78c3387c4613cad482105a30
@@ -218,7 +218,7 @@ Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 252
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.crkatri.eggnotch_0.0.2-55+debug_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.eggnotch_0.0.2-55+debug_iphoneos-arm.deb
 Size: 11498
 MD5sum: 97013ecc169f463f2c77da29c0592041
 SHA1: 18f05d1cd2aeaaa14c4a62af18f7e5bc9856b6c3
@@ -236,7 +236,7 @@ Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 248
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.crkatri.eggnotch_0.0.2-5_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.eggnotch_0.0.2-5_iphoneos-arm.deb
 Size: 8062
 MD5sum: 2accb0d9f2ac6cf4f982f7026c7cd7af
 SHA1: a6ee6b7432fee9416dd8a493df984cbab0585b3c
@@ -254,7 +254,7 @@ Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 252
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.crkatri.eggnotch_0.0.2-62+debug_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.eggnotch_0.0.2-62+debug_iphoneos-arm.deb
 Size: 11490
 MD5sum: 6d839724af7813769ba922a08dd53a55
 SHA1: 358610a183809a2a01f8371879469c71eec1159c
@@ -272,7 +272,7 @@ Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 248
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.crkatri.eggnotch_0.0.2_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.eggnotch_0.0.2_iphoneos-arm.deb
 Size: 8112
 MD5sum: 5a1922fa496390d7d07d7bd0e3801145
 SHA1: e05bcd0f6b22eb66a2a536cd26975b1275cb0e96
@@ -290,7 +290,7 @@ Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 252
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.crkatri.eggnotch_0.0.3-1+debug_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.eggnotch_0.0.3-1+debug_iphoneos-arm.deb
 Size: 11488
 MD5sum: a8d6657c99a2f9a110ca2adabe822e16
 SHA1: 3232cdad9b3b844b0a0c0dc727ddd42828fed595
@@ -308,7 +308,7 @@ Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 252
 Depends: mobilesubstrate, com.spark.libsparkcolourpicker, ws.hbang.common, com.spark.libsparkapplist
-Filename: ./debs/com.crkatri.eggnotch_0.0.3-20+debug_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.eggnotch_0.0.3-20+debug_iphoneos-arm.deb
 Size: 12390
 MD5sum: 53c8e34021cce755f25f39a0003fd74e
 SHA1: 100309307827e5045f5973816881bba346b2df50
@@ -326,7 +326,7 @@ Section: Tweaks
 Maintainer: Egg aka CRKatri
 Installed-Size: 252
 Depends: mobilesubstrate, com.spark.libsparkcolourpicker, ws.hbang.common
-Filename: ./debs/com.crkatri.eggnotch_0.0.3-6+debug_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.eggnotch_0.0.3-6+debug_iphoneos-arm.deb
 Size: 11942
 MD5sum: 3954e3c8b5edf9acb70d3ff3c47ae474
 SHA1: ce9e68849637e13c60f6f523bcda856665b2ead4
@@ -343,7 +343,7 @@ Version: 7.0.0-1
 Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Conflicts: com.michael.neofetch, com.matdev.neofetch-ios
-Filename: ./debs/com.crkatri.neofetch-7.0.0-1.deb
+Filename: ./debs//com.crkatri.neofetch-7.0.0-1.deb
 Size: 71548
 MD5sum: 64cf669468a889ea704e0685d8467f3d
 SHA1: cdc247235fbdc82a18e5643ac907411364ffa980
@@ -360,7 +360,7 @@ Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Depends: coreutils-bin
 Conflicts: com.michael.neofetch, com.matdev.neofetch-ios
-Filename: ./debs/com.crkatri.neofetch_7.0.0-2_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.neofetch_7.0.0-2_iphoneos-arm.deb
 Size: 71580
 MD5sum: 43b57bc4b4b2a2b4412e5aa17f38fcc1
 SHA1: 0a595b57914b475d028a60a437aaf6664083a50c
@@ -375,7 +375,7 @@ Architecture: iphoneos-arm
 Version: 1.0-1
 Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
-Filename: ./debs/com.crkatri.pfetch_1.0-1_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.pfetch_1.0-1_iphoneos-arm.deb
 Size: 14392
 MD5sum: 379f85e9e64ecfb473f8e58196c0c879
 SHA1: b8e4f1aa754791e680ab0d18733c1ef644c1c3b6
@@ -390,7 +390,7 @@ Architecture: iphoneos-arm
 Version: 1.0-2
 Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
-Filename: ./debs/com.crkatri.pfetch_1.0-2_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.pfetch_1.0-2_iphoneos-arm.deb
 Size: 14432
 MD5sum: 0a982483392947a9583d190a7e2f2ad9
 SHA1: af515edd5c5a3c25b7da7775873aebb0d8862cf3
@@ -401,12 +401,27 @@ Description: pfetch cause why not
 Name: pfetch
 Author: dylanaraps
 
+Package: com.crkatri.pfetch
+Architecture: iphoneos-arm
+Version: 1.0-3
+Section: Utilities
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Filename: ./debs//com.crkatri.pfetch_1.0-3_iphoneos-arm.deb
+Size: 14672
+MD5sum: ab17fa0431ba1153d825efe444439c13
+SHA1: 772142e79628db01518cf5cbd3a4c17b3c4d8d3e
+SHA256: ad248ebeafdca17e29a9f493a0e2ba554723341226b3ba5a9487f261ceefce01
+SHA512: 1056ca73ad61b9d5772a935233c16a10ff4a999c80dab81a93a21b58e862fa333b8effb03b737491e64cfc1fab07eda22817ed00d90a01c4173dd773fbd56248
+Description: pfetch cause why not
+Name: pfetch
+Author: dylanaraps
+
 Package: com.crkatri.ufetch
 Architecture: iphoneos-arm
 Version: 1.0.1-1
 Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
-Filename: ./debs/com.crkatri.ufetch-1.0.1-1.deb
+Filename: ./debs//com.crkatri.ufetch-1.0.1-1.deb
 Size: 1484
 MD5sum: 26a59c801a74e9c411c064ea641c4365
 SHA1: c094df38911990a5f5cbc3ceda1ff0618cf07a9c
@@ -421,7 +436,7 @@ Architecture: iphoneos-arm
 Version: 1.0.1-2
 Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
-Filename: ./debs/com.crkatri.ufetch_1.0.1-2_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.ufetch_1.0.1-2_iphoneos-arm.deb
 Size: 1508
 MD5sum: 1ae4c04322205b66c75d0c2c6af824fa
 SHA1: b5261edcdb1f158841dcee60e06e5cb8d2398335
@@ -438,7 +453,7 @@ Version: 1.0.1-3
 Section: Utilities
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Depends: gawk
-Filename: ./debs/com.crkatri.ufetch_1.0.1-3_iphoneos-arm.deb
+Filename: ./debs//com.crkatri.ufetch_1.0.1-3_iphoneos-arm.deb
 Size: 1516
 MD5sum: 958b632562bf57a93ff5b45ba090bf1d
 SHA1: 24a355426dd0ced22725c1f2c22bd5975ef18b20
@@ -456,7 +471,7 @@ Section: Development (Nepeta)
 Maintainer: Nepeta
 Installed-Size: 456
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/me.nepeta.exo_0.2.0_iphoneos-arm.deb
+Filename: ./debs//me.nepeta.exo_0.2.0_iphoneos-arm.deb
 Size: 56696
 MD5sum: e14242793f76a95b4385d800508a17b7
 SHA1: fd456db912b26cbac0c9e187a71c8c7b3a7128ce
@@ -473,7 +488,7 @@ Section: Tweaks (Nepeta)
 Maintainer: Nepeta
 Installed-Size: 484
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.2), me.nepeta.exo, firmware (>= 11.0)
-Filename: ./debs/me.nepeta.exobar_0.2.1_iphoneos-arm.deb
+Filename: ./debs//me.nepeta.exobar_0.2.1_iphoneos-arm.deb
 Size: 86270
 MD5sum: 7365fac1126eae1c3887ed8a4cb5641f
 SHA1: e9e2d606db4ae9f0562d12cc55120e81cb920091
@@ -491,7 +506,7 @@ Section: Utilities
 Maintainer: CRKatri
 Installed-Size: 736
 Depends: firmware (>= 13.0)
-Filename: ./debs/ru.domo.cocoatop_2.1.3-2_iphoneos-arm.deb
+Filename: ./debs//ru.domo.cocoatop_2.1.3-2_iphoneos-arm.deb
 Size: 142378
 MD5sum: 0b6c3c0cc7fd6a88104c3bae2999bfef
 SHA1: 98a73c27163d0de5283e1b532ebbce23d37270d1

@@ -1,9 +1,8 @@
 Package: com.crkatri.pfetch
 Name: pfetch
-Version: 1.0-2
+Version: 1.0-3
 Architecture: iphoneos-arm
 Description: pfetch cause why not
-    Slight modifications to work with iOS
 Maintainer: Cameron Katri <katri.cameron@gmail.com>
 Author: dylanaraps 
 Section: Utilities
