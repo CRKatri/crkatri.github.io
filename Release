@@ -1,8 +1,29 @@
-Origin: Egg aka CRKatri's Repo
-Label: Egg aka CRKatri's Repo
-Suite: stable
-Version: 1.0
-Codename: ios
 Architectures: iphoneos-arm
+Codename: iphoneos-arm64
 Components: main
-Description: Egg aka CRKatri's Repo
+Date: Thu, 20 Aug 2020 14:54:44 +0000
+Description: Various Projects
+Label: Cameron Katri's Repo
+Origin: Cameron Katri's Repo
+Suite: stable
+Version: 1.1
+MD5Sum:
+ 023a152f1ff7c248cbcc19fb1215bb7e            21221 Packages
+ 4a4e00736022ea85c93753ec8d3c39fd             6404 Packages.xz
+ 307a99bbe3563a3d70d1a5183bfed0ef             6413 Packages.zst
+ de58c40f29fc83658202bd9d3112e677              222 Release
+SHA1:
+ 4ca0d7c79cbf1fe39536d6972e3b9f6da1af6935            21221 Packages
+ fe7f4c66fe92338e63d585d5986417555a1cc224             6404 Packages.xz
+ b83af5e0e3a8881375335ce3e1394c7f50943fc6             6413 Packages.zst
+ 7cffaa09eabd2c23c2cd2cf7126f72d3393e604b              222 Release
+SHA256:
+ 59d9260932afc611e18395eb19c63e3b142114adbfd866fdb34e1baa79f6d641            21221 Packages
+ 0b2a26d902e953cda93b9623c13b96c2bd9f8aca5f3728df372afde253a1a1e7             6404 Packages.xz
+ 28341be46524b2c7200890ebb0b1bc54b47b44b35940776de2fcf8b1cd26a6ba             6413 Packages.zst
+ 8e286fa7177dc41344c98d7960bc89aa0208cf813a4ec43069e6e02649d32f8e              222 Release
+SHA512:
+ a5e2495dc7c57f291b79f1f515215e884c3c41e06a235e58befee7d76b8d4eca3b6fc255b1ac61035b8af84ed6f0532267027cc76013db75ff00a632836c8147            21221 Packages
+ fed147a594d1677b5c0276bb18e220eaaff4afd76a828390640c2af049413924d4f0665d994478c68fea96d0bdb432f7f3ffb477fcb2860432df422dada8bdd5             6404 Packages.xz
+ cc537ca29cc60162522110db7607b292c43cdb6681ec84a999117676edbb35d2bc8f20c4f1081fe1e3f9a935b99e825b389f0949e1282a6a5078a8efe0e25c52             6413 Packages.zst
+ 7f22de0d5bed7ef50e33805f98e51115d660c451e4cf3defe4e9e3ff2f353d8235808b82572b37cd00f77d03005bdc71cbad4dbd75de97b72912d1fe103a35ff              222 Release
