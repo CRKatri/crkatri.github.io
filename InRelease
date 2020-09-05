@@ -4,40 +4,40 @@ Hash: SHA256
 Architectures: iphoneos-arm
 Codename: iphoneos-arm64
 Components: main
-Date: Thu, 27 Aug 2020 21:58:39 +0000
+Date: Sun, 06 Sep 2020 02:59:34 +0000
 Description: Various Projects
 Label: Cameron Katri's Repo
 Origin: Cameron Katri's Repo
 Suite: stable
 Version: 1.1
 MD5Sum:
- ca71d4c4d1cd7f2d805315b696b4ceed            13596 Packages
- 7b5e5de2fe3fabd4d9bc010eeafe47d8             4168 Packages.xz
- 952c9510c09272b1beb8dcdbb30d440a             4146 Packages.zst
- 1eb759a72ac8f9c1666c6eda3fc11f03              222 Release
+ fc02b2f1672cd3d6abe690d7c27fb90f            14297 Packages
+ 0e3542589f8d5377b2ce152bcdcb1f5f             4328 Packages.xz
+ dbb1af5e761bc60c47f754186623bff7             4306 Packages.zst
+ 6d0415f4363cb8469b73eab682fc0637              222 Release
 SHA1:
- f80466c6b71a3ebaaf44f7cd99fc8449a07331d7            13596 Packages
- a854e3695e35b503f6bffc8636c43f1c1b4d8095             4168 Packages.xz
- 6a8c6adbe597f7eb88da34c537ea23d6363eda8d             4146 Packages.zst
- f194b41ae9342275cf2d0fbbc3c91ab20f3cd9c9              222 Release
+ 6c71b85a0d5512a938f0321b84171f651cd3820d            14297 Packages
+ ba9c66c7e119216499dac8f0c766872e2db2b5a3             4328 Packages.xz
+ 94c2eb4025825cc75961a07c872f7b4f527fd090             4306 Packages.zst
+ ed84162f99f8f15ea33715c6aa9056b2abacc577              222 Release
 SHA256:
- c759d0e3e0d499f85c840b0f8de74d004a5994d65afab61d8f7ee7c42a2dd5dc            13596 Packages
- 46638bc88eceecb187f751ab7dab114920da8aa0507a00a4a235e085f5714ed1             4168 Packages.xz
- 47804b0334b077bcfe60e334f852d8f0a8651d83d4f7c62e5ed0ec756bd7a0dd             4146 Packages.zst
- 06ce31045a6a8276c13807a1c9397e81cb10c4dd2ce6bacc3d465ce429abfd52              222 Release
+ e0fc48340b9cafa255397b34bcbdaddbf23f26680237ad8c4d9d9c3d37d28ddc            14297 Packages
+ 5f91c69ddce4aa83e4ee40fe5aba12497b704521e486c35693b7e647238d7cbc             4328 Packages.xz
+ 9a27f9bf32aadd471d28a69483167b46a7d4c80f4c7224aa54aea429da06af25             4306 Packages.zst
+ 97fad41844d2735a1fb173feca04895b82079e5d3ba79e4c776b26a5b9b8496d              222 Release
 SHA512:
- b0304c38e8fcdbc1f9bca7e0274464eee37abad7223164038c8e3aab5bcac0f30a3eecf1d8e0aaa67e218a94347f0fc6a58b7034bdb98e5d74c084d845a4054c            13596 Packages
- a7953801f4113bdbd64857b109d1898e5ca7adbb14ba2398b067c97b4e0b7c0c705a0aa91c27ece83dfd2fb2d88004ed2c77db02a2668d98fb6d62f983d05117             4168 Packages.xz
- 8b95acc0db5e40b80e0092c3b4e5760d62d514db47729090e37917caaa1450d2ec7dd016b8cc927724c0a4caaa718eb7ab8a1505c11039eb4b3fdddcb10ce96a             4146 Packages.zst
- 13ff68a5efd2244cb80849b99d379f384408246334710a86257ccaafd2f54e6d6f0af699e3b7733887b8fb3df6712d3c138f112081ed4059b9e73d3fedbc7e9a              222 Release
+ a20e1554c14cec41b5172799079013c1a1ae44b32c40a4a43decb95c04297c4eac2c3888d8ea03513c9370ccc00cc52dc19d245aedcbce28fb1c2c8fa80131a9            14297 Packages
+ 723379cddea770fc48aba04c1dee92dbe1d73e966f280f8bd34d69c07529ecacb62e7d72e2f5c37d1d73aec39117cf70d58b9937d9e1ba79fb0f294a68c74ddd             4328 Packages.xz
+ b5915df9feb21bf738758824b3c694117ff537b493913df865a4d4e60466430ba56b3665a66668159c566256087f8490381c24614c9fc66af9645527ef6e1b6c             4306 Packages.zst
+ b6584eaea15e8083c3a74b30f9941eb307d83f235aaa2f3c238d80246477a3b62a31b6042cc49e9d13292bde67edc4afd818efbb249c5ed2b5f5d3b0e219d5bd              222 Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEfTs2zqQPzCGB+23Nuv/ZeCZUDxwFAl9ILJwACgkQuv/ZeCZU
-Dxym6wf+OF4UkOV7km7GDBVkzkZgXwJSAAwWyeJesYRJWb/nOgccBjxdakW1765p
-cpHxN99Vy9x0Mr7zUVwWojFF2Y1p7a2E383Gectp0zV0/76iWMowug5UCZJ+ubux
-696/WoEs+RkryzNBCLx1OXoQPcsBiY5C9OEhSFvQr7p9hqj4wFRpJ3IbSCqVI718
-n63j/fXoHdfy6KOoiCtNOYzCLYTZiaRBhI2hpb7h2Kt+JWCS9ypZwYl/J9evG4nc
-XsyRdjJMZhmq0ea6Q4O6AzrHLBS2Sw2VUixdg8Baknjk9Y2nR7cIMdWNfZrq0WXY
-UyVSXeYEIEUm1zanGEWW6HZAV+ap2w==
-=xc8f
+iQEzBAEBCAAdFiEEfTs2zqQPzCGB+23Nuv/ZeCZUDxwFAl9UUJYACgkQuv/ZeCZU
+DxzfvwgAobWV3O4qCDyJ6EPpPLuP/EMyMJefBqRAYOP/+9ZV3OvAOv5cCHn3KBVH
+lQ0yEDpTFxBoxjN9UUvH2QnBGTujIhG4IlMQ7d9mlTPvnzGmAk7eqTgQN3NKA0zy
+wKyC5wAJKXEHk4AeBJbu8OVnD3vv9LRkfkZa3ZKkfzKUrojXzCckxJ6coiPln8UF
+i6QcvtJhPxDLipnn0U8kSSYf6+lIh0THbOLjBBGiMnx1xvJZh9CoWLVTm4I3r3KQ
+S2MON2HcGHz8AjG2sd/GguwNzPrfBMhHXIq1y2+BvnDlrPaYp2eRY8ErxiWfuZEt
+IqEWvnvNMuj/xcgS5EXdnL3FCAJxJQ==
+=8fHt
 -----END PGP SIGNATURE-----

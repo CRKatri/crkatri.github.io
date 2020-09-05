@@ -52,6 +52,24 @@ Description: GnuPG key for Cameron Katri's repositories.
 Tag: purpose::backend, role::hacker
 Name: Cameron Katri's APT Keyring
 
+Package: cameronkatri-keyring
+Architecture: iphoneos-arm
+Version: 2020.09.05
+Priority: required
+Essential: yes
+Section: System
+Maintainer: Cameron Katri <katri.cameron@gmail.com>
+Installed-Size: 40
+Filename: ./debs/cameronkatri-keyring_2020.09.05_iphoneos-arm.deb
+Size: 7600
+MD5sum: 8aa0713be385f0ebf6b1409d09437333
+SHA1: 31d4638e917f7b3ed1aec64f82a1ffaa4842d083
+SHA256: 8f2b1eb6bcf7e8563044e773cce2d86a6b113cc448553ae01c003259f850a2a9
+SHA512: 0898184c3c23247154143c9c2a3e3f3fa277156ec88d915bfdeac61b057904cfc86395756f9bee40d87e7834e7a87565024563bafb8bf3683e7e21e332ad018a
+Description: GnuPG key for Cameron Katri's repositories.
+Tag: purpose::backend, role::hacker
+Name: Cameron Katri's APT Keyring
+
 Package: com.castyte.eggcrypt
 Architecture: iphoneos-arm
 Version: 3.0.2
